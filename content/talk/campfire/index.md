@@ -2,13 +2,12 @@
 author: Alison Hill
 categories:
 - workshop
-date: "2021-01-12"
-date_end: "2021-01-13"
+date: "2023-01-08"
+date_end:
 draft: false
-event: rstudio::global(2021)
+event: 
 event_url: https://global.rstudio.com
-excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
-  GitHub, and Netlify.
+excerpt: "Investigating inter- and intra-individual differences in Tai Chi practice time, pain, and mood among participants with chronic nonspecific neck pain: secondary analysis of a randomized controlled trial"
 featured: true
 layout: single
 links:
@@ -20,10 +19,10 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/apreshill/bakeoff
-location: Sydney, Australia
+location: The Journal of Alternative and Complementary Medicine
 show_post_time: false
 subtitle: Testing
-title: A campfire
+title: Tai Chi Practice Time
 ---
 
 I'm really excited to give this talk! Stay tuned for video and slides.
