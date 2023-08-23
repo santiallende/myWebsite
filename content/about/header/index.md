@@ -35,7 +35,7 @@ BA, Psychology | June 2011
 **The Institute for Meditation and Psychotherapy Certificate Program** <br>
 Sept ’20 – May ’21 | [IMP Website](https://meditationandpsychotherapy.org/)
 
-**The Mindfulness Meditation Teacher Certification Program Sounds True Publishing** <br>
+**The Mindfulness Meditation Teacher Certification Program** <br>
 May ’17 – May ’19 | [MMTCP Website](https://mmtcp.soundstrue.com/)
 
 
