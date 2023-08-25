@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Santi's personal website."
   favicon = ""
   #logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["about", "psychotherapy", "publications", "contact", "faq"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -94,18 +94,6 @@ enableEmoji = true
       icon_pack = "fa"
       url       = "https://med.stanford.edu/bayley-lab/about/santi-allende.html"
   [[params.social]]
-      icon      = "linkedin" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.linkedin.com/in/santi-allende-46b500163/"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/noeticbabble"
-  [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/santiallende"
-  [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://orcid.org/0000-0001-9708-6629"
@@ -119,30 +107,35 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Publications"
-    title = "Publications"
-    url = "/talk/"
+    name = "Psychotherapy"
+    title = "Psychotherapy"
+    url = "/psychotherapy/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    name = "Publications"
+    title = "Publications"
+    url = "/publications/"
     weight = 3
   [[menu.header]]
     name = "Contact"
     title = "Contact form"
     url = "/contact/"
     weight = 4
+  [[menu.header]]
+    name = "FAQ"
+    title = "FAQ"
+    url = "/faq/"
+    weight = 5
   # Configure footer  
   [[menu.footer]]
     name = "Contact"
     title = "Contact form"
     url = "/contact/"
-    weight = 5
+    weight = 6
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
