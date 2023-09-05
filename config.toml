@@ -125,11 +125,6 @@ enableEmoji = true
     title = "Contact form"
     url = "/contact/"
     weight = 4
-  [[menu.header]]
-    name = "FAQ"
-    title = "FAQ"
-    url = "/faq/"
-    weight = 5
   # Configure footer  
   [[menu.footer]]
     name = "Contact"

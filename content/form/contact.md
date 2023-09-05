@@ -1,6 +1,6 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: Please contact me with any inquiries or to receive a copy of my CV.
+description: Please contact me with any inquiries.
 draft: false
 formspree_form_id: mpzeqkko
 layout: split-right
