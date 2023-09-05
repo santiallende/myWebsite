@@ -4,7 +4,7 @@ date: "2023-04-11"
 date_end:
 draft: false
 event: 
-event_url: https://global.rstudio.com
+event_url:
 excerpt: "Investigating inter- and intra-individual differences in Tai Chi practice time, pain, and mood among participants with chronic nonspecific neck pain: secondary analysis of a randomized controlled trial"
 featured: true
 layout: single
@@ -18,6 +18,8 @@ show_post_time: false
 subtitle:
 title: Tai Chi Practice Time
 ---
+
+**Authors:** Santiago Allende, Holger Cramer, Peter Wayne, Romy Lauche
 
 **Background:** Tai Chi is emerging as a promising treatment for a variety of pain conditions, including chronic nonspecific neck pain. Given this trend, it is important to better understand the dose–response relationship and how pain, anxiety, and depression impact this relationship.
 
