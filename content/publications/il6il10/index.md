@@ -5,7 +5,7 @@ date_end:
 draft: false
 excerpt: "Plasma IL-6/IL-10 ratio as an indicator of greater anxiety during the Trier Social Stress Test (manuscript in preparation)"
 layout: single
-location: ProQuest
+location: In Prep
 show_post_time: false
 subtitle:
 title: Plasma IL-6/IL-10 Ratio and Anxiety
