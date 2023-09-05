@@ -1,6 +1,6 @@
 ---
 author: Santi Allende, PsyD
-date: "2023-10-30"
+date: "2023-09-03"
 date_end: 
 draft: false
 excerpt: "Plasma IL-6/IL-10 ratio as an indicator of greater anxiety during the Trier Social Stress Test (manuscript in preparation)"
