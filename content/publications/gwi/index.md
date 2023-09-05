@@ -5,11 +5,6 @@ date_end:
 draft: false
 excerpt: "Yoga is effective for treating chronic pain in veterans with Gulf War Illness at long-term follow-up (manuscript in press)"
 layout: single
-links:
-- icon: door-open
-  icon_pack: fas
-  name: link to work in prep
-  url: https://drsantiallende.com/publications/gwi/index.md
 location: BMC Complementary Medicine and Therapies
 show_post_time: false
 subtitle:

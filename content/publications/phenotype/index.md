@@ -5,11 +5,6 @@ date_end:
 draft: false
 excerpt: "Data-driven phenotyping of mental health symptoms and peripheral biomarkers (manuscript in preparation)"
 layout: single
-links:
-- icon: door-open
-  icon_pack: fas
-  name: link to work in prep
-  url: https://drsantiallende.com/publications/phenotype/index.md
 location: ProQuest
 show_post_time: false
 subtitle:

@@ -5,11 +5,6 @@ date_end:
 draft: false
 excerpt: "Teleyoga for patients with Alzheimer’s disease and chronic musculoskeletal pain and their caregivers: a feasibility study (manuscript under review)"
 layout: single
-links:
-- icon: door-open
-  icon_pack: fas
-  name: link to work in prep
-  url: https://drsantiallende.com/publications/adYoga/index.md
 location: Global Advances in Integrative Medicine and Health
 show_post_time: false
 subtitle:
