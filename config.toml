@@ -30,10 +30,10 @@ enableEmoji = true
 [params]
   orgName = "Santi Allende, PsyD"
   orgLocal = ""
-  description = "Santi's personal website."
+  description = "Dr. Santi's personal website."
   favicon = ""
   #logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["about", "psychotherapy", "publications", "contact", "faq"]
+  mainSections = ["about", "psychotherapy", "publications", "contact"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]

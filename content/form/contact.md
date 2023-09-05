@@ -1,8 +1,8 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: Please contact me with any inquiries.
+description: Please contact me with any inquiries regarding my services. <br /> <br />  Tel. (206) 588-6067
 draft: false
-formspree_form_id: mpzeqkko
+formspree_form_id: xeqbkrrl
 layout: split-right
 name: Contact Us Form
 show_poweredby_formspree: true
