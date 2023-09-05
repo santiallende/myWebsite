@@ -15,7 +15,7 @@ As an integrative psychotherapist with an appreciation for the common factors mo
 
 I also have a personal meditation practice and find that focused awareness and compassion often make their way into my clinical work and help patients discover a deeper knowing that directs lasting resolution. However, in addition, I integrate attachment-based psychodynamic interventions, cognitive-behavioral interventions, narrative therapy, and reminiscence therapy into my work with patients. Together, we can draw on a variety of methods to help you process grief and loss, move into a new stage of life, take on new roles, navigate challenging aspects of relationships, better live with pain, or nurture your capacity for creative and/or spiritual emergence.
 
-Some patients find benefit in using data to support their work in psychotherapy. If you are interested in using self-report and/or biomarker data to better understand yourself, we can determine whether it may be helpful for your growth. This is something we can discuss further during our work together.
+Some patients find benefit in using data to support their psychotherapy. If you are interested in using self-report and/or biomarker data to better understand yourself, we can determine whether it may be helpful for your growth. This is something we can discuss further during our work together.
 
 # Fees and Insurance
 
