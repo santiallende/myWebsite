@@ -9,7 +9,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: link to work in prep
-  url: https://drsantiallende.com/publications/index.md
+  url: https://drsantiallende.com/publications/il6il10/index.md
 location: ProQuest
 show_post_time: false
 subtitle:
@@ -24,4 +24,4 @@ title: Plasma IL-6/IL-10 Ratio and Anxiety
 
 **Results:** Although results did not show higher ratios in the BD group or high risk BD group (vs. controls; p’s > .05), exploratory analyses revealed that increased anxiety from baseline to 15 minutes post-TSST predicted higher IL- 6/IL-10 ratios at 90 minutes post-TSST (b = 0.07, se = 0.03, p = .018). Diagnostic status did not moderate this effect (p = .180). 
 
-**Conclusions:** Our results indicate that TSST-induced anxiety in youth is linked to a greater inflammatory response, as evidenced by a greater upregulation of IL-6 compared to IL-10. The IL-6/IL-10 ratio may be a sensitive marker of anxiety during the TSST, irrespective of the presence of a mood disorder in youth. Future studies should investigate whether youth with anxiety demonstrate an imbalance between pro/anti-inflammatory cytokiness.
+**Conclusions:** Our results indicate that TSST-induced anxiety in youth is linked to a greater inflammatory response, as evidenced by a greater upregulation of IL-6 compared to IL-10. The IL-6/IL-10 ratio may be a sensitive marker of anxiety during the TSST, irrespective of the presence of a mood disorder in youth. Future studies should investigate whether youth with anxiety demonstrate an imbalance between pro/anti-inflammatory cytokines.
