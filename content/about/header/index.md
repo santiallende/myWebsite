@@ -38,6 +38,13 @@ Sept ’20 – May ’21 | [IMP Website](https://meditationandpsychotherapy.org/
 **The Mindfulness Meditation Teacher Certification Program** <br>
 May ’17 – May ’19 | [MMTCP Website](https://mmtcp.soundstrue.com/)
 
+## Licenses
+
+**Psychologist License** <br>
+State of Washington <br>
+Department of Health <br>
+PY61334761
+
 
 
 
