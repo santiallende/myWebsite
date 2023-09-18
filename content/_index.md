@@ -3,6 +3,14 @@ action_label: Read More &rarr;
 action_link: /about
 action_type: text
 description: I am a clinical psychologist and mind/body researcher who works with a variety of modalities to help you feel more integrated and better prepared to meet your unique challenges.
+keywords:
+- psychotherapy
+- seattle
+- bay area
+- therapy
+- therapist
+- psychologist
+- washington
 image_left: false
 images: 
 - img/headshot.JPG
