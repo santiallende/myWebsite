@@ -3,7 +3,7 @@ type: about
 cascade:
   headless: true
 description: |
-  Psychotherapy
+  Seattle Psychotherapy
 show_header: true
 sidebar_left: false
 title: Psychotherapy
