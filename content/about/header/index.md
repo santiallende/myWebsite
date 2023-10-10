@@ -10,7 +10,7 @@ I earned my doctorate in Clinical Psychology from the PGSP-Stanford PsyD Consort
 
 During my internship, I completed rotations in behavioral medicine, primary care mental health integration, severe mental illness, and general outpatient mental health. I have received training in meditation-based interventions, attachment-based psychodynamic interventions, cognitive-behavioral interventions, narrative therapy, and reminiscence therapy. I am particularly drawn to meditation- and attachment-based interventions and working with individuals who are experiencing grief and loss, life transitions, relational challenges, chronic pain, and creative and/or spiritual blocks. 
 
-As a researcher, my work is broadly focused on elucidating the mind-body connection in chronic conditions and on evaluating the efficacy of mind-body interventions for stress-related disorders. Two related areas of interest are in mining electronic health records to better understand how mental health interfaces with physical health and in seeking to improve mental health care delivery in large healthcare systems through the advancement of idiographic and psychoneuroimmunological approaches in precision psychiatry.
+As a researcher, my work is broadly focused on elucidating the mind-body connection in chronic conditions and on evaluating the efficacy of mind-body interventions for stress-related disorders. Two related areas of interest are in mining electronic health records to better understand how mental health interfaces with physical health and improving mental health care delivery in large healthcare systems through the advancement of idiographic and psychoneuroimmunological approaches in precision psychiatry.
 
 <!-- this is a subheadline -->
 ## Experience
@@ -42,7 +42,8 @@ May ’17 – May ’19 | [MMTCP Website](https://mmtcp.soundstrue.com/)
 
 **Psychologist License** <br>
 State of Washington <br>
-Department of Health <br>
+Department of Health
+[Provider Credential Search](https://doh.wa.gov/licenses-permits-and-certificates/provider-credential-search) <br>
 PY61334761
 
 
