@@ -42,9 +42,9 @@ May ’17 – May ’19 | [MMTCP Website](https://mmtcp.soundstrue.com/)
 
 **Psychologist License** <br>
 State of Washington <br>
-Department of Health
+Department of Health <br>
 [Provider Credential Search](https://doh.wa.gov/licenses-permits-and-certificates/provider-credential-search) <br>
-PY61334761
+License #: PY61334761
 
 
 
