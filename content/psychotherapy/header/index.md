@@ -19,7 +19,7 @@ Some patients find benefit in using self-report measures and biomarker assessmen
 
 # Fees and Insurance
 
-My fee is $206 for each 45-minute telehealth session. I am an out-of-network psychologist but can provide you with a monthly statement to submit to your insurance company for reimbursement. You may call your insurance company to inquire about out-of-network coverage. The procedure code for a 45-minute individual psychotherapy session is 90834.
+My fee is $206 for each 45-minute in-person or telehealth session. I am an out-of-network psychologist but can provide you with a monthly statement to submit to your insurance company for reimbursement. You may call your insurance company to inquire about out-of-network coverage. The procedure code for a 45-minute individual psychotherapy session is 90834.
 
 A few questions to ask your insurance company:
 
