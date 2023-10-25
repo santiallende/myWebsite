@@ -9,7 +9,7 @@ headline: |
 <!-- this is a subheadline -->
 # My Approach
 
-I work with adults across the lifespan who experience varying degrees of distress and who would like to cultivate a greater sense of comfort and equanimity in their lives. My style has been described as warm, collaborative, engaging, and humorous. I use a number of approaches to help you become more whole, authentically yourself, and comfortable in your own skin.
+I work with adults who experience varying degrees of distress and who would like to cultivate a greater sense of comfort and equanimity in their lives. My style has been described as warm, collaborative, engaging, and humorous. I use a number of approaches to help you become more whole, authentically yourself, and comfortable in your own skin.
 
 As an integrative psychotherapist with an appreciation for the common factors model of psychotherapy, I view the clinical relationship as the vehicle for enduring change. I am deeply committed to co-creating a safe environment where you can explore and integrate various aspects of the Self with acceptance and kindness. Integrating previously neglected, rejected, or betrayed aspects of the Self is associated with improvements in interpersonal relationships and a greater sense of purpose and meaning in life.
 
