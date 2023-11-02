@@ -19,7 +19,7 @@ Some patients find benefit in using self-report measures and biomarker assessmen
 
 # Fees and Insurance
 
-I use a sliding scale model that ranges from \$60 to \$450 depending on need. Rather than asking you for financial documentation, we can simply have a conversation where I will ask, "What are you reasonably be able to pay for weekly sessions?" 
+I use a sliding scale model that ranges from \$60 to \$450 depending on need. Rather than asking you for financial documentation, we can simply have a conversation where I will ask, "What are you reasonably able to pay for weekly sessions?" 
 
 Please note that I am an out-of-network psychologist but can provide you with a monthly statement to submit to your insurance company for reimbursement. You may call your insurance company to inquire about out-of-network coverage. The procedure code for a 45-minute individual psychotherapy session is 90834.
 
