@@ -131,6 +131,8 @@ enableEmoji = true
     title = "Contact form"
     url = "/contact/"
     weight = 6
+    
+    
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]

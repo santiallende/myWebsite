@@ -1,6 +1,6 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: Please contact me with any inquiries regarding my services. Please provide your age, phone number, reason for seeking psychotherapy, and how you heard about my practice. <br /> <br /> By submitting this form, you acknowledge that electronic communication, including web forms and email, is limited in terms of privacy and may be intercepted by a third party. Any inquiry of services does not constitute a therapeutic relationship. By submitting this form, you hereby release Dr. Santi Allende from any and all liability. <br /> <br />  Tel. (206) 588-6067
+description: Schedule a free 15-minute consultation [here](https://drsanti.sessionshealth.com/request). <br/> <br/> Please contact me with any inquiries regarding my services. <br/> <br/> By submitting this form, you acknowledge that electronic communication, including web forms and email, is limited in terms of privacy and may be intercepted by a third party. Any inquiry of services does not constitute a therapeutic relationship. <br/> <br/> Tel. (206) 588-6067
 draft: false
 formspree_form_id: xeqbkrrl
 layout: split-right

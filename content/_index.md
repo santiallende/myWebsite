@@ -1,6 +1,6 @@
 ---
-action_label: Read More &rarr;
-action_link: /about
+action_label: Schedule a free 15-minute consultation &rarr;
+action_link: https://drsanti.sessionshealth.com/request
 action_type: text
 description: I am a clinical psychologist and mind/body researcher who works with a variety of modalities to help you feel more integrated and better prepared to meet your unique challenges.
 keywords:
