@@ -8,35 +8,37 @@ headline: |
 
 I earned my doctorate in Clinical Psychology from the PGSP-Stanford PsyD Consortium and completed my predoctoral clinical internship at the Sacramento VA Medical Center. I am now an Associated Health Fellow in the War Related Illness and Injury Study Center (WRIISC) at the Palo Alto VA Medical Center and a Postdoctoral Scholar in the Department of Psychiatry and Behavioral Sciences at Stanford University School of Medicine.
 
-During my internship, I completed rotations in behavioral medicine, primary care mental health integration, severe mental illness, and general outpatient mental health. I have received training in meditation-based interventions, cognitive-behavioral therapy, motivational interviewing, attachment-based psychodynamic interventions, narrative therapy, and reminiscence therapy. I am particularly drawn to meditation- and attachment-based interventions and working with individuals who are going through life transitions, experiencing relational challenges, trying to make and maintain healthy lifestyle behavior changes, living with chronic conditions, processing grief and loss, working through trauma, and experiencing creative and/or spiritual blocks.
+During my internship, I completed rotations in behavioral medicine, primary care mental health integration, severe mental illness, and general outpatient mental health. I have received training in meditation-based interventions, cognitive-behavioral therapy, motivational interviewing, attachment-based psychodynamic interventions, narrative therapy, and reminiscence therapy. 
+
+I am particularly drawn toward meditation- and attachment-based interventions and working with young adults, adults, and older adults who are experiencing stress, adjustment issues, relationship issues, anxiety, depression, grief, chronic physical health conditions, interpersonal trauma, and other emotional difficulties.
 
 As a researcher, my work is broadly focused on elucidating the mind-body connection in chronic conditions and on evaluating the efficacy of mind-body interventions for stress-related disorders. Two related areas of interest are in mining electronic health records to better understand how mental health interfaces with physical health and improving mental health care delivery in large healthcare systems through the advancement of idiographic and psychoneuroimmunological approaches in precision psychiatry.
 
 <!-- this is a subheadline -->
 ## Experience
 
-**Stanford University School of Medicine** | Postdoctoral Scholar <br> August 2022 - Present
+**Stanford University School of Medicine** | Postdoctoral Scholar 
 
-**VA Palo Alto Health Care System** | Associated Health Fellow <br> August 2022 - Present
+**VA Palo Alto Health Care System** | Associated Health Fellow 
 
 ## Education
 
 **PGSP-Stanford PsyD Consortium** | Palo Alto, CA <br>
-PsyD, Doctor of Psychology | July 2022
+PsyD, Doctor of Psychology
 
 **Maryland Institute College of Art** | Baltimore, MD <br>
-MPS, Information Visualization | June 2016
+MPS, Information Visualization
 
 **University of California, Santa Cruz** | Santa Cruz, CA <br>
-BA, Psychology | June 2011
+BA, Psychology
 
 ## Certifications
 
 **The Institute for Meditation and Psychotherapy Certificate Program** <br>
-Sept ’20 – May ’21 | [IMP Website](https://meditationandpsychotherapy.org/)
+Certificate in Meditation and Psychotherapy | [IMP Website](https://meditationandpsychotherapy.org/)
 
 **The Mindfulness Meditation Teacher Certification Program** <br>
-May ’17 – May ’19 | [MMTCP Website](https://mmtcp.soundstrue.com/)
+Certificate in Teaching Mindfulness | [MMTCP Website](https://mmtcp.soundstrue.com/)
 
 ## Licenses
 
