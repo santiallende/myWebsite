@@ -10,7 +10,7 @@ I earned my doctorate in Clinical Psychology from the PGSP-Stanford PsyD Consort
 
 During my internship, I completed rotations in behavioral medicine, primary care mental health integration, severe mental illness, and general outpatient mental health. I have received training in meditation-based interventions, cognitive-behavioral therapy, motivational interviewing, attachment-based psychodynamic interventions, narrative therapy, and reminiscence therapy. 
 
-I am particularly drawn toward meditation- and attachment-based interventions and working with young adults, adults, and older adults who are experiencing stress, adjustment issues, relationship issues, anxiety, depression, grief, chronic physical health conditions, interpersonal trauma, and other emotional difficulties.
+I am particularly drawn toward meditation- and attachment-based interventions and working with adults who are experiencing chronic stress and workplace burnout, adjustment difficulties, relationship and family-of-origin issues, grief and loss, chronic physical health conditions, and interpersonal trauma.
 
 As a researcher, my work is broadly focused on elucidating the mind-body connection in chronic conditions and on evaluating the efficacy of mind-body interventions for stress-related disorders. Two related areas of interest are in mining electronic health records to better understand how mental health interfaces with physical health and improving mental health care delivery in large healthcare systems through the advancement of idiographic and psychoneuroimmunological approaches in precision psychiatry.
 
