@@ -21,9 +21,7 @@ Please note that I am only providing telepsychology services at this time.
 
 # Fees and Insurance
 
-I use a sliding scale model that ranges from \$60 to \$450 per 45-minute telehealth session, depending on need. Rather than asking you for financial documentation, we can simply have a conversation where I will ask, "What are you reasonably able to pay for weekly sessions?"
-
-Please note that I am an out-of-network psychologist but can provide you with a monthly statement to submit to your insurance company for reimbursement. You may call your insurance company to inquire about out-of-network coverage. The procedure code for a 45-minute individual psychotherapy session is 90834.
+My fee per 45-minute session is $200. Please note that I am an out-of-network psychologist but can provide you with a monthly statement to submit to your insurance company for reimbursement. You may call your insurance company to inquire about out-of-network coverage. The procedure code for a 45-minute individual psychotherapy session is 90834.
 
 A few questions to ask your insurance company:
 
