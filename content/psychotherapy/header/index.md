@@ -21,7 +21,7 @@ Please note that I am only providing telepsychology services at this time.
 
 # Fees and Insurance
 
-My fee per 45-minute session is $200. Please note that I am an out-of-network psychologist but can provide you with a monthly statement to submit to your insurance company for reimbursement. You may call your insurance company to inquire about out-of-network coverage. The procedure code for a 45-minute individual psychotherapy session is 90834.
+My fee per 45-minute session is $200. I am an out-of-network psychologist but can provide you with a monthly statement to submit to your insurance company for reimbursement. You may call your insurance company to inquire about out-of-network coverage. The procedure code for a 45-minute individual psychotherapy session is 90834.
 
 A few questions to ask your insurance company:
 
