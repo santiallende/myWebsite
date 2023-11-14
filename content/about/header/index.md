@@ -10,7 +10,7 @@ I earned my doctorate in Clinical Psychology from the PGSP-Stanford PsyD Consort
 
 As a doctoral trainee, I developed competency in working with diverse patient populations and with a range of treatment modalities and clinical presentations. I received training in cognitive behavioral therapy, time-limited dynamic psychotherapy, compassion-focused acceptance and commitment therapy, narrative therapy, family systems therapies, and reminiscence therapy and life review. I also completed both a 2-year mindfulness meditation teacher certification program and a 9-month meditation and psychotherapy certification program.
 
-During my internship, I completed rotations in behavioral medicine, primary care mental health integration, severe mental illness, and general outpatient mental health. I have received training in meditation-based interventions, cognitive-behavioral therapy, motivational interviewing, attachment-based psychodynamic interventions, narrative therapy, and reminiscence therapy. 
+During my internship, I completed rotations in behavioral medicine, primary care mental health integration, severe mental illness, and general outpatient mental health. I received training in meditation-based interventions, cognitive-behavioral therapy, motivational interviewing, attachment-based psychodynamic interventions, narrative therapy, and reminiscence therapy. 
 
 I am particularly drawn toward meditation- and attachment-based interventions and working with adults who are experiencing chronic stress and workplace burnout, adjustment difficulties, relationship and family-of-origin issues, grief and loss, chronic physical health conditions, and interpersonal trauma.
 
