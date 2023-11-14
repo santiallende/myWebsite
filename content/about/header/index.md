@@ -6,7 +6,9 @@ headline: |
   About me
 ---
 
-I earned my doctorate in Clinical Psychology from the PGSP-Stanford PsyD Consortium and completed my predoctoral clinical internship at the Sacramento VA Medical Center. I am now an Associated Health Fellow in the War Related Illness and Injury Study Center (WRIISC) at the Palo Alto VA Medical Center and a Postdoctoral Scholar in the Department of Psychiatry and Behavioral Sciences at Stanford University School of Medicine.
+I earned my doctorate in Clinical Psychology from the PGSP-Stanford PsyD Consortium and completed my clinical internship at the Sacramento VA Medical Center. I am now an Associated Health Fellow in the War Related Illness and Injury Study Center (WRIISC) at the Palo Alto VA Medical Center and a Postdoctoral Scholar in the Department of Psychiatry and Behavioral Sciences at Stanford University School of Medicine.
+
+As a doctoral trainee, I developed competency in working with diverse patient populations and with a range of treatment modalities and clinical presentations. I received training in cognitive behavioral therapy, time-limited dynamic psychotherapy, compassion-focused acceptance and commitment therapy, narrative therapy, family systems therapies, and reminiscence therapy and life review. I also completed both a 2-year mindfulness meditation teacher certification program and a 9-month meditation and psychotherapy certification program.
 
 During my internship, I completed rotations in behavioral medicine, primary care mental health integration, severe mental illness, and general outpatient mental health. I have received training in meditation-based interventions, cognitive-behavioral therapy, motivational interviewing, attachment-based psychodynamic interventions, narrative therapy, and reminiscence therapy. 
 
@@ -17,17 +19,17 @@ As a researcher, my work is broadly focused on elucidating the mind-body connect
 <!-- this is a subheadline -->
 ## Experience
 
-**Stanford University School of Medicine** | Postdoctoral Scholar 
+**Stanford University School of Medicine** | Postdoctoral Scholar <br> August 2022 - Present
 
-**VA Palo Alto Health Care System** | Associated Health Fellow 
+**VA Palo Alto Health Care System** | Associated Health Fellow <br> August 2022 - Present
 
 ## Education
 
 **PGSP-Stanford PsyD Consortium** | Palo Alto, CA <br>
-PsyD, Doctor of Psychology
+PsyD, Doctor of Psychology | July 2022
 
 **Maryland Institute College of Art** | Baltimore, MD <br>
-MPS, Information Visualization
+MPS, Information Visualization | June 2016
 
 **University of California, Santa Cruz** | Santa Cruz, CA <br>
 BA, Psychology
@@ -35,10 +37,10 @@ BA, Psychology
 ## Certifications
 
 **The Institute for Meditation and Psychotherapy Certificate Program** <br>
-Certificate in Meditation and Psychotherapy | [IMP Website](https://meditationandpsychotherapy.org/)
+Sept ’20 – May ’21 | Certificate in Meditation and Psychotherapy | [IMP Website](https://meditationandpsychotherapy.org/)
 
 **The Mindfulness Meditation Teacher Certification Program** <br>
-Certificate in Teaching Mindfulness | [MMTCP Website](https://mmtcp.soundstrue.com/)
+May ’17 – May ’19 | Certificate in Teaching Mindfulness | [MMTCP Website](https://mmtcp.soundstrue.com/)
 
 ## Licenses
 
