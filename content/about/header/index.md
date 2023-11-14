@@ -32,7 +32,7 @@ PsyD, Doctor of Psychology | July 2022
 MPS, Information Visualization | June 2016
 
 **University of California, Santa Cruz** | Santa Cruz, CA <br>
-BA, Psychology
+BA, Psychology | June 2011
 
 ## Certifications
 
