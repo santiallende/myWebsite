@@ -16,7 +16,7 @@ I am particularly drawn toward meditation- and attachment-based interventions an
 
 As a researcher, my work is broadly focused on elucidating the mind-body connection in chronic conditions and on evaluating the efficacy of mind-body interventions for stress-related disorders. Two related areas of interest are in mining electronic health records to better understand how mental health interfaces with physical health and improving mental health care delivery in large healthcare systems through the advancement of idiographic and psychoneuroimmunological approaches in precision psychiatry.
 
-On a personal note, I enjoy spending time with my fiancé, dog, family, and friends, aviation as a private pilot, skiing, running, floatation-REST (float/sensory deprivation tanks), meditation retreats, saunas, and restorative yoga.
+On a personal note, I enjoy spending time with my fiancé, dog, family, and friends, aviation as a private pilot, statistical programming with R, skiing, running, floatation-REST (float/sensory deprivation tanks), meditation retreats, saunas, and restorative yoga.
 
 <!-- this is a subheadline -->
 ## Experience
