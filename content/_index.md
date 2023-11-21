@@ -17,7 +17,7 @@ keywords:
 - washington
 image_left: false
 images: 
-- img/headshot.JPG
+- img/newHeadshotCropped.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Clinical Psychologist | Mind/Body Researcher
