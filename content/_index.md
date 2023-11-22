@@ -1,6 +1,6 @@
 ---
-action_label: Book a free consultation &rarr;
-action_link: https://drsanti.sessionshealth.com/request
+action_label: Learn More &rarr;
+action_link: /about
 action_type: text
 description: I am a clinical psychologist and mind/body researcher, specializing in chronic stress and workplace burnout, who uses a variety of modalities to help you feel more integrated and better prepared to meet your unique challenges.
 keywords:
