@@ -17,7 +17,9 @@ Together, we can discuss emotional themes in your life and help you draw paralle
 
 Some patients find benefit in using self-report measures and biomarker feedback (e.g., cortisol, CRP, DHEA) to support their psychotherapy. If you are interested in using these to better understand yourself, we can determine whether they may be helpful for your growth. I would be happy to discuss this further during our work together.
 
-Please note that I am only providing telepsychology services at this time.
+Please note that I am only providing telepsychology services at this time. 
+
+As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherapy in the following states: AL, AZ, AR, CO, CNMI, CT, DE, DC, FL, GA, ID, IL, IN, KS, KY, ME, MD, MI, MN, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, TN, TX, UT, VA, WA, WV, WI, and WY.
 
 # Fees and Insurance
 
