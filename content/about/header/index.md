@@ -48,9 +48,11 @@ May ’17 – May ’19 | Certificate in Teaching Mindfulness | [MMTCP Website](
 State of Washington <br>
 Department of Health <br>
 [Provider Credential Search](https://doh.wa.gov/licenses-permits-and-certificates/provider-credential-search) <br>
-License #: PY61334761
+License #: PY61334761 <br>
 
-
-
+**PSYPACT Authorization** <br>
+Authority to Practice Interjurisdictional Telepsychology (APIT) <br>
+[Verification of Authorizations](https://www.verifypsypact.org/PsypactDirectory) <br>
+APIT #: 17010 
 
 
