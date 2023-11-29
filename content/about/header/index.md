@@ -16,6 +16,8 @@ I am particularly drawn toward meditation- and attachment-based interventions an
 
 As a researcher, my work is broadly focused on elucidating the mind-body connection in chronic conditions and on evaluating the efficacy of mind-body interventions for stress-related disorders. Two related areas of interest are in mining electronic health records to better understand how mental health interfaces with physical health and improving mental health care delivery in large healthcare systems through the advancement of idiographic and psychoneuroimmunological approaches in precision psychiatry.
 
+Through [PSYPACT](https://psypact.org/), I am able to provide teletherapy in the following states: AL, AZ, AR, CO, CNMI, CT, DE, DC, FL, GA, ID, IL, IN, KS, KY, ME, MD, MI, MN, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, TN, TX, UT, VA, WA, WV, WI, and WY.
+
 <!-- this is a subheadline -->
 ## Experience
 
