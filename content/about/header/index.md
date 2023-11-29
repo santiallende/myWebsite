@@ -44,7 +44,7 @@ Sept ’20 – May ’21 | Certificate in Meditation and Psychotherapy | [IMP We
 **The Mindfulness Meditation Teacher Certification Program** <br>
 May ’17 – May ’19 | Certificate in Teaching Mindfulness | [MMTCP Website](https://mmtcp.soundstrue.com/)
 
-## Licenses
+## Licenses & Authorizations
 
 **Psychologist License** <br>
 State of Washington <br>
