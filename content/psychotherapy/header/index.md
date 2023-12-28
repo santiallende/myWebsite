@@ -23,7 +23,7 @@ As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherap
 
 # Fees and Insurance
 
-I am a provider with the Alma network (HelloAlma.com) and credentialed with Aetna and Optum (UnitedHealthcare, Oscar, and Oxford) insurance plans. Alma’s platform enables providers to accept insurance by working with insurance companies on behalf of providers, which reduces session costs down to a regular copayment, or lower. Alma will work directly with you regarding eligibility, insurance billing, co-payments, and deductible payments. Information shared with Alma will be limited to that required to submit and process payments and insurance reimbursement. Your out-of-pocket cost per session will be determined by your insurance carrier and is based on plan specifics, in-network deductible status, applicable co-insurance, and/or co-payment amount.
+I am a registered provider in the [Alma network](HelloAlma.com) and hold credentials with Aetna and Optum (UnitedHealthcare, Oscar, and Oxford) insurance carriers. Alma's platform facilitates insurance acceptance for providers, resulting in reduced session expenses to standard co-payment rates or lower. Alma will liaise directly with you concerning eligibility, insurance invoicing, co-payments, and deductible settlements. Information disclosed to Alma will be restricted to that which is essential for payment submission and insurance reimbursement processing. Your session's out-of-pocket expense will be determined by your insurance provider, contingent upon your plan's specifics, in-network deductible status, relevant co-insurance, and/or co-payment amounts.
 
 My standard self-pay fee per 45-minute session is $150. I also offer a sliding scale depending on your financial need. 
 
