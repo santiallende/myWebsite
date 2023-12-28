@@ -23,7 +23,7 @@ As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherap
 
 # Fees and Insurance
 
-My fee per 45-minute session is $200. I also offer a sliding scale depending on your financial need. I am an out-of-network psychologist but can provide you with a monthly statement to submit to your insurance company for reimbursement. You may call your insurance company to inquire about out-of-network coverage. The procedure code for a 45-minute individual psychotherapy session is 90834.
+My fee per 45-minute session is $135. I also offer a sliding scale depending on your financial need. I am an out-of-network psychologist but can provide you with a monthly statement to submit to your insurance company for reimbursement. You may call your insurance company to inquire about out-of-network coverage. The procedure code for a 45-minute individual psychotherapy session is 90834.
 
 A few questions to ask your insurance company:
 
