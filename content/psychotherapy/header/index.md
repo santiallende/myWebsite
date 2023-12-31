@@ -9,7 +9,7 @@ headline: |
 <!-- this is a subheadline -->
 # My Approach
 
-Sometimes we can sense that something isn't quite right in our lives and it can be somewhat nerve-racking to reach out to a therapist for guidance. With this in mind, I do my best to provide a warm and welcoming environment. I specialize in working with adults who are experiencing the emotional sequelae of chronic stress and workplace burnout, including feeling overwhelmed, depleted and exhausted, pessimistic, detached, anxious, and depressed. Other areas of focus include adjustment difficulties, relationship and family-of-origin issues, grief and loss, chronic physical health conditions, and  trauma.
+Sometimes we can sense that something isn't quite right in our lives and it can be somewhat nerve-racking to reach out to a therapist for guidance. With this in mind, I do my best to provide a warm and welcoming environment. I specialize in working with adults who are experiencing the emotional sequelae of chronic stress and workplace burnout, including feeling overwhelmed, depleted and exhausted, pessimistic, detached, anxious, and depressed. Other areas of focus include adjustment difficulties, relationship and family-of-origin issues, grief and loss, chronic physical health conditions, and interpersonal trauma.
 
 As an integrative psychotherapist with an appreciation for the common factors model of psychotherapy, I view the clinical relationship as the vehicle for enduring change. I help patients increase insight into their relationship patterns and acceptance and compassion toward themselves, others, and the circumstances surrounding them. I find that doing so helps my patients discover novel and creative ways of working with their unique stressors and life circumstances. 
 
