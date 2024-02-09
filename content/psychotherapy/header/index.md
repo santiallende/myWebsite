@@ -15,8 +15,6 @@ As an integrative psychotherapist with an appreciation for the common factors mo
 
 Together, we can discuss emotional themes in your life and help you draw parallels between past and present relationships, cultivate a greater sense of acceptance and self-compassion, explore and change limiting beliefs, and give voice to parts of yourself that feel distant. I integrate elements from mindfulness- and compassion-focused interventions, attachment-based psychodynamic interventions, cognitive-behavioral therapy, motivational interviewing, narrative therapy, and reminiscence therapy.
 
-Some patients find benefit in using self-report measures and biomarker feedback (e.g., cortisol, CRP, DHEA) to support their psychotherapy. If you are interested in using these to better understand yourself, we can determine whether they may be helpful for your growth. I would be happy to discuss this further during our work together.
-
 Please note that I am only providing telepsychology services at this time. 
 
 As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherapy in the following states: AL, AZ, AR, CO, CNMI, CT, DE, DC, FL, GA, ID, IL, IN, KS, KY, ME, MD, MI, MN, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, TN, TX, UT, VA, WA, WV, WI, and WY.
