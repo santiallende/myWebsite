@@ -15,13 +15,13 @@ As an integrative psychotherapist with an appreciation for the common factors mo
 
 Together, we can discuss emotional themes in your life and help you draw parallels between past and present relationships, cultivate a greater sense of acceptance and self-compassion, explore and change limiting beliefs, and give voice to parts of yourself that feel distant. I integrate elements from mindfulness- and compassion-focused interventions, attachment-based psychodynamic interventions, cognitive-behavioral therapy, motivational interviewing, narrative therapy, and reminiscence therapy.
 
-Please note that I am only providing telepsychology services at this time. 
+Please note that my practice is full and I am no longer accepting new patients.
 
 As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherapy in the following states: AL, AZ, AR, CO, CNMI, CT, DE, DC, FL, GA, ID, IL, IN, KS, KY, ME, MD, MI, MN, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, TN, TX, UT, VA, WA, WV, WI, and WY.
 
 # Fees and Insurance
 
-I am a registered provider in the [Alma](https://helloalma.com) network and hold credentials with Aetna and Optum (UnitedHealthcare, Oscar, and Oxford) insurance carriers. Alma's platform facilitates insurance acceptance for providers, resulting in reduced session expenses to standard co-payment rates or lower. Alma will liaise directly with you concerning eligibility, insurance invoicing, co-payments, and deductible settlements. Information disclosed to Alma will be restricted to that which is essential for payment submission and insurance reimbursement processing. Your session's out-of-pocket expense will be determined by your insurance provider, contingent upon your plan's specifics, in-network deductible status, relevant co-insurance, and/or co-payment amounts.
+I am a registered provider in the [Alma](https://helloalma.com) network and hold credentials with Aetna and Optum (UnitedHealthcare, Oscar, and Oxford) insurance carriers. Alma will liaise directly with you concerning eligibility, insurance invoicing, co-payments, and deductible settlements. Information disclosed to Alma will be restricted to that which is essential for payment submission and insurance reimbursement processing. Your session's out-of-pocket expense will be determined by your insurance provider, contingent upon your plan's specifics, in-network deductible status, relevant co-insurance, and/or co-payment amounts.
 
 My standard self-pay fee per 45-minute session is $150.
 
