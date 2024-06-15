@@ -6,7 +6,7 @@ headline: |
   About me
 ---
 
-I earned my doctorate in Clinical Psychology from the PGSP-Stanford PsyD Consortium and completed my clinical internship at the Sacramento VA Medical Center. I am now an Associated Health Fellow in the War Related Illness and Injury Study Center (WRIISC) at the Palo Alto VA Medical Center and a Postdoctoral Scholar in the Department of Psychiatry and Behavioral Sciences at Stanford University School of Medicine. These are both remote positions, as I live in Seattle, Washington.
+I earned my doctorate in Clinical Psychology from the PGSP-Stanford PsyD Consortium, completed my clinical internship at the Sacramento VA Medical Center, and a postdoctoral research fellowship at the War Related Illness and Injury Study Center (WRIISC) at the Palo Alto VA Medical Center. I am currently a Data Scientist at WRIISC and a Postdoctoral Scholar in the Department of Psychiatry and Behavioral Sciences at Stanford University School of Medicine. Both positions are remote, as I live in Seattle, Washington.
 
 I have worked with diverse patient populations and with a range of treatment modalities and clinical presentations. I have trained in interpersonal therapy, cognitive behavioral therapy, time-limited dynamic psychotherapy, compassion-focused acceptance and commitment therapy, motivational interviewing, narrative therapy, family systems therapies, and reminiscence therapy. I have also completed both a 2-year mindfulness meditation teacher certification program and a 9-month meditation and psychotherapy certification program.
 
