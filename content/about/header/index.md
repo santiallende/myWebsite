@@ -19,7 +19,7 @@ As a researcher, my work is broadly focused on elucidating the mind-body connect
 <!-- this is a subheadline -->
 ## Experience
 
-**VA Palo Alto Health Care System** | Data Scientist <br> August 2022 - Present
+**VA Palo Alto Health Care System** | Data Scientist <br> June 2024 - Present
 
 **Stanford University School of Medicine** | Postdoctoral Scholar <br> August 2022 - Present
 
