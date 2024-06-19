@@ -9,8 +9,6 @@ headline: |
 <!-- this is a subheadline -->
 # My Approach
 
-*Announcement: my practice is full and I am no longer accepting new patients.*
-
 Sometimes we can sense that something isn't quite right in our lives and it can be somewhat nerve-racking to reach out to a therapist for guidance. With this in mind, I do my best to provide a warm and welcoming environment. I specialize in working with adults who are experiencing the emotional sequelae of chronic stress and burnout, including feeling overwhelmed, depleted and exhausted, pessimistic, detached, anxious, and depressed. Other areas of focus include adjustment difficulties, relationship and family-of-origin issues, grief and loss, chronic physical health conditions, and trauma.
 
 As an integrative psychotherapist with an appreciation for the common factors model of psychotherapy, I view the clinical relationship as the vehicle for enduring change. I help patients increase insight into their relationship patterns and acceptance and compassion toward themselves, others, and the circumstances surrounding them. I find that doing so helps my patients discover novel and creative ways of working with their unique stressors and life circumstances. 
@@ -20,8 +18,6 @@ Together, we can discuss emotional themes in your life and help you draw paralle
 # States of Service
 
 As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherapy in the following states: AL, AZ, AR, CO, CNMI, CT, DE, DC, FL, GA, ID, IL, IN, KS, KY, ME, MD, MI, MN, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, TN, TX, UT, VA, WV, WI, and WY.
-
-I am no longer accepting teletherapy patients in Washington. I offer in-person visits in Queen Anne, Seattle.
 
 # Fees and Insurance
 
