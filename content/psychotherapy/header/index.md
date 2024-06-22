@@ -40,7 +40,7 @@ A few questions to ask your insurance company:
 -How do I submit claims from an out-of-network mental health provider?
 
 # Legal and Administrative Matters
-Please note that I do not take on cases for the purposes of completing FMLA (Family and Medical Leave Act) paperwork, workers' compensation claims, or other legal matters. My focus is on providing therapeutic care and support to address your personal well-being. 
+Please note that I do not take on cases for the purposes of completing FMLA (Family and Medical Leave Act) paperwork, managing workers' compensation claims, or other legal matters. My focus is on providing therapeutic care and support to address your personal well-being. 
 
 
 
