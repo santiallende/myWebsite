@@ -2,7 +2,8 @@
 action_label: Learn More &rarr;
 action_link: /about
 action_type: text
-description: I am a clinical psychologist and mind/body researcher, specializing in chronic stress and burnout, who uses a variety of modalities to help you feel more integrated and better prepared to meet your unique challenges.
+avatar_shape: rounded
+description: I work with individuals who wish to overcome chronic stress and explore issues of purpose, meaning, and loss in important areas of their lives. My goal is to help clients feel more integrated and better prepared to meet their unique challenges.
 
 keywords:
 - psychotherapy
@@ -22,7 +23,7 @@ images:
 - img/newHeadshotCropped.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Clinical Psychologist | Mind/Body Researcher
+subtitle: Clinical Psychologist | Mind-Body Researcher
 text_align_left: true
 title: Dr. Santi Allende
 type: home
