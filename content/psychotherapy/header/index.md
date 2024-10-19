@@ -23,9 +23,7 @@ Together, we can explore emotional themes in your life, draw parallels between p
 As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherapy in the following states: AL, AZ, AR, CO, CNMI, CT, DE, DC, FL, GA, ID, IL, IN, KS, KY, ME, MD, MI, MN, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, TN, TX, UT, VA, WV, WI, and WY.
 
 # Fees and Insurance
-My standard self-pay fee per 45-minute session is **$240**. You may click on the blue "Use Your Insurance" button to verify your out-of-network benefits through Reimbursify. This service helps you easily check your insurance coverage for out-of-network providers and submit claims directly to your insurance company for potential reimbursement, all at no expense to you.
-
-Alternatively, I can provide you with a monthly statement that you can submit to your insurance company for reimbursement. You might consider contacting your insurance company to inquire about coverage for out-of-network services. The procedure code for a 45-minute individual psychotherapy session is **90834**.
+My standard self-pay fee per 45-minute session is **$240**. You may click on the blue "Use Your Insurance" button to verify your out-of-network benefits through Reimbursify. This service helps you easily check your insurance coverage for out-of-network providers and submit claims directly to your insurance company for potential reimbursement, all at no expense to you. I will also provide you with a monthly statement, which you can use with Reimbursify or submit directly to your insurance company for reimbursement. You might also consider contacting your insurance company to inquire about coverage for out-of-network services. The procedure code for a 45-minute individual psychotherapy session is  **90834**.
 
 A few questions to ask your insurance company:
 
