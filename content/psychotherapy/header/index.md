@@ -8,6 +8,8 @@ headline: |
 
 <!-- this is a subheadline -->
 
+*Announcement: my practice is full and I am no longer accepting new patients.*
+
 # My Approach
 
 Sometimes we can sense that something isn't quite right in our lives, and it can feel somewhat nerve-racking to reach out to a therapist for guidance. With this in mind, I strive to provide a warm and welcoming environment. I have a particular interest in working with adults who wish to explore purpose, meaning, and loss, while also addressing life transitions, chronic stress, burnout, relationship and family dynamics, grief, trauma, serious mental illness, and other emotional challenges.
