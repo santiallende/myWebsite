@@ -10,7 +10,7 @@ I earned my doctorate in Clinical Psychology from the PGSP-Stanford PsyD Consort
 
 I have worked in a variety of clinical settings with diverse patient populations, utilizing a range of therapeutic modalities, which has shaped my integrative approach. I currently work with adults who wish to explore purpose, meaning, and loss, while also addressing life transitions, chronic stress, burnout, relationship and family dynamics, grief, trauma, serious mental illness, and other emotional challenges. My training in meditation and psychotherapy deepens my ability to integrate mindfulness principles and compassionate awareness into my therapeutic work.
 
-As a researcher, my work focuses on understanding the mind-body connection in chronic conditions and evaluating the efficacy of mind-body interventions for stress-related disorders. I am also interested evaluating the effectiveness of mental health interventions in large healthcare systems by mining electronic health records for weekly self-report and dropout data during psychotherapy.
+As a researcher, my work focuses on understanding the mind-body connection in chronic conditions and evaluating the efficacy of interventions for stress-related disorders. I am also interested in assessing the effectiveness of mental health interventions within large healthcare systems through the analysis of electronic health records.
 
 <!-- this is a subheadline -->
 ## Experience
