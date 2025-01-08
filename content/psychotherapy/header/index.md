@@ -23,7 +23,11 @@ Together, we can explore emotional themes in your life, draw parallels between p
 As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherapy in the following states: AL, AZ, AR, CO, CNMI, CT, DE, DC, FL, GA, ID, IL, IN, KS, KY, ME, MD, MI, MN, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, TN, TX, UT, VA, WV, WI, and WY.
 
 # Fees and Insurance
-My standard self-pay fee per 45-minute session is **$225**. You may click on the blue "Use Your Insurance" button to verify your out-of-network benefits through Reimbursify. This service helps you easily check your insurance coverage for out-of-network providers and submit claims directly to your insurance company for potential reimbursement, all at no expense to you. I will also provide you with a monthly statement, which you can use with Reimbursify or submit directly to your insurance company for reimbursement. You might also consider contacting your insurance company to inquire about coverage for out-of-network services. The procedure code for a 45-minute individual psychotherapy session is **90834**.
+My standard self-pay fee per 45-minute session is **$160**. 
+
+I am a registered provider in the [Alma](https://helloalma.com) network and hold credentials with Aetna. Alma will liaise directly with you concerning eligibility, insurance invoicing, co-payments, and deductible settlements. Information disclosed to Alma will be restricted to that which is essential for payment submission and insurance reimbursement processing. Your session's out-of-pocket expense will be determined by your insurance provider, contingent upon your plan's specifics, in-network deductible status, relevant co-insurance, and/or co-payment amounts.
+
+If I am not in-network with your insurance carrier, I can provide you with a monthly statement to submit to your insurance company for reimbursement. You may call your insurance company to inquire about out-of-network coverage. The procedure code for a 45-minute individual psychotherapy session is **90834**.
 
 A few questions to ask your insurance company:
 
@@ -36,25 +40,6 @@ A few questions to ask your insurance company:
 -What is the reimbursement amount per therapy session?
 
 -How do I submit claims from an out-of-network mental health provider?
-
-<div class="ReimbursifyWidget"
-title="Reimbursify"
-id="div-ffw-1506023749912"
-offset-bottom-pixels="100"
-offset-right-pixels="50"
-style="z-index:100"
-filefast-qikcode="SALLE417A"
-verifast-qikcode="1A9D3D0E1H"
-button-background-color="#4A97E2"
-button-change-color="#ff7200"
-button-font-color="#FFFFFF"
-widget-embed="true"
-filefast-header-image-url="https://bit.ly/3dDOSpv"
-verifast-header-image-url="https://bit.ly/3kbViSI">
-</div>
-<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
-<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
-<script type="text/javascript" src="https://reimbursify.com/ffweb/fvw.js"></script>
 
 
 
