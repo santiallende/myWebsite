@@ -8,15 +8,13 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: link to dashboard
+  name: link to dashboard (click "Login")
   url: https://healthapps.shinyapps.io/wriisc-vetdash/_w_075956a0/
 location: JAMIA Open
 show_post_time: false
 subtitle:
 title: VetDash Clinical Dashboard
 ---
-
-[Click here to view VetDash](https://healthapps.shinyapps.io/wriisc-vetdash/_w_075956a0/)
 
 **Authors** Santiago Allende, Hayley S. Sullivan, Peter J. Bayley
 
