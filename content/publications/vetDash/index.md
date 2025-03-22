@@ -1,6 +1,6 @@
 ---
 author: Santi Allende, PsyD
-date: "2022-03-02"
+date: "2025-04-01"
 date_end:
 draft: false
 excerpt: "VetDash Clinical Dashboard for Enhancing Measurement-Based Care in Veteran Health"
@@ -8,7 +8,7 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: link to publication
+  name: link to dashboard
   url: https://healthapps.shinyapps.io/wriisc-vetdash/_w_075956a0/
 location: JAMIA Open
 show_post_time: false
