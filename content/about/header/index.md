@@ -10,7 +10,7 @@ I earned my doctorate in Clinical Psychology from the PGSP-Stanford PsyD Consort
 
 I have worked in a variety of clinical settings with diverse patient populations, utilizing a range of therapeutic modalities, which has shaped my integrative approach. I currently work with adults who wish to explore purpose, meaning, and loss, while also addressing life transitions, chronic stress, burnout, relationship and family dynamics, grief, trauma, serious mental illness, and other emotional challenges. My training in meditation and psychotherapy deepens my ability to integrate mindfulness principles and compassionate awareness into my therapeutic work.
 
-As a researcher, I specialize biobehavioral health, mind-body interventions, and clinical informatics. My work focuses on analyzing large-scale epidemiological and longitudinal datasets, clinical trial data, and developing clinical dashboards to enhance care delivery, efficiency, and outcomes in large healthcare systems.
+As a researcher, I specialize in biobehavioral health, mind-body interventions, and clinical informatics. My work focuses on analyzing large-scale epidemiological and longitudinal datasets, clinical trial data, and developing clinical dashboards to enhance care delivery, efficiency, and outcomes in large healthcare systems.
 
 <!-- this is a subheadline -->
 ## Experience
