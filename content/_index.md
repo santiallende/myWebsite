@@ -23,7 +23,7 @@ images:
 - img/newHeadshotCropped.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Clinical Psychologist
+subtitle: Licensed Clinical Psychologist
 text_align_left: true
 title: Dr. Santi Allende
 type: home
