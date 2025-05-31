@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Dr. Santi's personal website."
   favicon = "img/avatar.ico"
   #logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["about", "psychotherapy", "publications", "location", "contact"]
+  mainSections = ["about", "psychotherapy", "publications", "contact"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -120,11 +120,6 @@ enableEmoji = true
     title = "Publications"
     url = "/publications/"
     weight = 3
-  [[menu.header]]
-    name = "Location"
-    title = "Location"
-    url = "/location/"
-    weight = 4
   [[menu.header]]
     name = "Contact"
     title = "Contact form"
