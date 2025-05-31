@@ -34,6 +34,9 @@ BA, Psychology | June 2011
 
 ## Certifications
 
+**San Francisco Psychotherapy Research Group** <br>
+Oct ’24 – May ’25 | Certificate in Control Mastery Theory | [SFPRG Website](https://sfprg.org/content.aspx?page_id=22&club_id=209469&module_id=372275)
+
 **The Institute for Meditation and Psychotherapy Certificate Program** <br>
 Sept ’20 – May ’21 | Certificate in Meditation and Psychotherapy | [IMP Website](https://meditationandpsychotherapy.org/)
 
