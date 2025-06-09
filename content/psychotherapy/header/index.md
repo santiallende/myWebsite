@@ -14,11 +14,11 @@ Sometimes we can sense that something isn't quite right in our lives, and it can
 
 As an integrative psychotherapist with an appreciation for the common factors model of psychotherapy, I view the clinical relationship as the vehicle for enduring change. I help clients increase insight into their relationship patterns while cultivating greater acceptance of their individuality. I find that this process helps my clients discover novel and creative ways of working with their unique stressors and life circumstances.
 
-Together, we can explore emotional themes in your life, draw parallels between past and present relationships, cultivate a greater sense of acceptance and self-compassion, challenge limiting beliefs, and give voice to parts of yourself that may feel distant.
+Together, we can explore emotional themes in your life, draw parallels between past and present relationships, cultivate a greater sense of acceptance and self-compassion, challenge and overcome limiting beliefs, and give voice to parts of yourself that may feel distant.
 
 # States of Service
 
-As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherapy in the following states: AL, AZ, AR, CO, CNMI, CT, DE, DC, FL, GA, ID, IL, IN, KS, KY, ME, MD, MI, MN, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, TN, TX, UT, VA, WV, WI, and WY.
+As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherapy in the following states: AL, AZ, AR, CO, CN, MI, CT, DE, DC, FL, GA, ID, IL, IN, KS, KY, ME, MD, MI, MN, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, TN, TX, UT, VA, WV, WI, and WY.
 
 # Fees and Insurance
 My standard self-pay fee per 45-minute session is **$160**. 
