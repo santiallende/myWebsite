@@ -10,7 +10,7 @@ headline: |
 
 # My Approach
 
-Sometimes we can sense that something isn't quite right in our lives, and it can feel somewhat nerve-racking to reach out to a therapist for guidance. With this in mind, I strive to provide a warm and welcoming environment. I have a particular interest in working with adults who wish to explore purpose, meaning, and loss, while also addressing life transitions, chronic stress, burnout, relationship and family dynamics, grief, trauma, serious mental illness, and other emotional challenges.
+Sometimes we can sense that something isn't quite right in our lives, and it can feel somewhat nerve-racking to reach out to a therapist for guidance. With this in mind, I strive to provide a warm and welcoming environment. I have a particular interest in working with adults who wish to explore purpose, meaning, and loss, while also addressing life transitions, relationship and family dynamics, chronic stress, burnout, grief, trauma, serious mental illness, and other emotional challenges.
 
 As an integrative psychotherapist with an appreciation for the common factors model of psychotherapy, I view the clinical relationship as the vehicle for enduring change. I help clients increase insight into their relationship patterns while cultivating greater acceptance of their individuality. I find that this process helps my clients discover novel and creative ways of working with their unique stressors and life circumstances.
 
