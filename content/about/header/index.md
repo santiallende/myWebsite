@@ -6,7 +6,7 @@ headline: |
   About me
 ---
 
-I earned my doctorate in Clinical Psychology from the PGSP-Stanford PsyD Consortium and completed my clinical internship at the Sacramento VA Medical Center. I was a postdoctoral research fellow at the War Related Illness and Injury Study Center (WRIISC) at the Palo Alto VA Medical Center and a postdoctoral scholar in the Department of Psychiatry and Behavioral Sciences at Stanford University School of Medicine. Living in Seattle, Washington, I previously worked remotely as a healthcare data scientist at WRIISC. Alongside these roles, I have also maintained a private practice, which I now focus on full-time.
+I earned my doctorate in Clinical Psychology from the PGSP-Stanford PsyD Consortium and completed my clinical internship at the Sacramento VA Medical Center. I was an Associated Health Fellow at the War Related Illness and Injury Study Center (WRIISC) at the Palo Alto VA Medical Center and a Postdoctoral Fellow in the Department of Psychiatry and Behavioral Sciences at Stanford University School of Medicine. Living in Seattle, Washington, I previously worked remotely as a Healthcare Data Scientist at WRIISC. Alongside these roles, I have also maintained a private practice, which I now focus on full-time.
 
 I have worked in a variety of clinical settings with diverse patient populations, utilizing a range of therapeutic modalities, which has shaped my integrative approach. I currently work with adults who wish to explore purpose, meaning, and loss, while also addressing life transitions, relationship and family dynamics, chronic stress, burnout, grief, trauma, serious mental illness, and other emotional challenges. My training in meditation and psychotherapy deepens my ability to integrate mindfulness principles and compassionate awareness into my therapeutic work.
 
@@ -17,7 +17,7 @@ As a researcher, I specialized in biobehavioral health, mind-body interventions,
 
 **VA Palo Alto Health Care System** | Data Scientist <br> June 2024 - June 2025
 
-**Stanford University School of Medicine** | Postdoctoral Scholar <br> August 2022 - June 2024
+**Stanford University School of Medicine** | Postdoctoral Fellow <br> August 2022 - June 2024
 
 **VA Palo Alto Health Care System** | Associated Health Fellow <br> August 2022 - June 2024
 
