@@ -17,7 +17,6 @@ keywords:
 - therapist
 - psychologist
 - washington
-- denver
 image_left: false
 images: 
 - img/headshot2025.jpg

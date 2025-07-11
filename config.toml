@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Santi Allende, PsyD"
   orgLocal = ""
-  description = "Dr. Santi's personal website."
+  description = "Dr. Santi's website."
   favicon = "img/avatar.ico"
   #logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["about", "psychotherapy", "publications", "contact"]
