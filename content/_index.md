@@ -20,7 +20,7 @@ keywords:
 - denver
 image_left: false
 images: 
-- img/newHeadshotCropped.jpg
+- img/headshot2025.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Licensed Psychologist
