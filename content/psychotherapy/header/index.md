@@ -23,7 +23,7 @@ As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherap
 # Fees and Insurance
 My standard self-pay fee per 45-minute session is **$160**. 
 
-I am in-network with Aetna.
+I am in-network with Aetna and Optum (UnitedHealthcare, Oscar, and Oxford).
 
 If I am not in-network with your insurance carrier, I can provide you with a monthly statement to submit to your insurance company for reimbursement. You may call your insurance company to inquire about out-of-network coverage. The procedure code for a 45-minute individual psychotherapy session is **90834**.
 
