@@ -10,8 +10,6 @@ headline: |
 
 *Announcement: my practice is full and I am no longer accepting new patients.*
 
-# My Approach
-
 My approach is down-to-earth, with space for humor when it helps. I have a particular interest in working with adults who wish to explore purpose, meaning, and loss, while also addressing life transitions, relationship and family dynamics, chronic stress, burnout, grief, trauma, and other emotional challenges.
 
 I focus on how past experiences shape the ways we interpret our feelings, relate to others, and make sense of ourselves. Many of us carry long-held beliefs—about who we need to be, what's expected of us, or what emotions are safe to show—that may no longer reflect how we want to live.
