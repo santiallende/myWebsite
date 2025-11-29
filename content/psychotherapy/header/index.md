@@ -12,11 +12,11 @@ headline: |
 
 # My Approach
 
-Sometimes we can sense that something isn't quite right in our lives, and it can feel somewhat nerve-racking to reach out to a therapist for guidance. With this in mind, I strive to provide a warm and welcoming environment. I have a particular interest in working with adults who wish to explore purpose, meaning, and loss, while also addressing life transitions, relationship and family dynamics, chronic stress, burnout, grief, trauma, serious mental illness, and other emotional challenges.
+My approach is down-to-earth, with space for humor when it helps. I have a particular interest in working with adults who wish to explore purpose, meaning, and loss, while also addressing life transitions, relationship and family dynamics, chronic stress, burnout, grief, trauma, and other emotional challenges.
 
-As an integrative psychotherapist with an appreciation for the common factors model of psychotherapy, I view the clinical relationship as the vehicle for enduring change. I help clients increase insight into their relationship patterns while cultivating greater acceptance of their individuality. I find that this process helps my clients discover novel and creative ways of working with their unique stressors and life circumstances.
+I focus on how past experiences shape the ways we interpret our feelings, relate to others, and make sense of ourselves. Many of us carry long-held beliefs—about who we need to be, what's expected of us, or what emotions are safe to show—that may no longer reflect how we want to live.
 
-Together, we can explore emotional themes in your life, draw parallels between past and present relationships, cultivate a greater sense of acceptance and self-compassion, challenge and overcome limiting beliefs, and give voice to parts of yourself that may feel distant.
+In therapy, we'll explore those stories and patterns at your pace, making room for new perspectives, greater acceptance, and a fuller sense of emotional understanding. Over time, this work can help you soften old beliefs that no longer fit, reconnect with your strengths, and make room for parts of yourself that may have felt quiet, hidden, or left out.
 
 # States of Service
 
@@ -25,9 +25,7 @@ As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherap
 # Fees and Insurance
 My standard self-pay fee per 45-minute session is **$200**. 
 
-I am in-network with Aetna and Optum (UnitedHealthcare, Oscar, and Oxford).
-
-If I am not in-network with your insurance carrier, I can provide you with a monthly statement to submit to your insurance company for reimbursement. You may call your insurance company to inquire about out-of-network coverage. The procedure code for a 45-minute individual psychotherapy session is **90834**.
+I am an out-of-network provider. I can provide a monthly statement for you to submit to your insurance company for reimbursement. You may want to call your insurance company to ask about your out-of-network benefits. The procedure code for a 45-minute individual psychotherapy session is **90834**.
 
 A few questions to ask your insurance company:
 
