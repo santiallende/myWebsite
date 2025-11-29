@@ -23,7 +23,7 @@ Together, we can explore emotional themes in your life, draw parallels between p
 As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherapy in the following states: AL, AZ, AR, CO, CN, MI, CT, DE, DC, FL, GA, ID, IL, IN, KS, KY, ME, MD, MI, MN, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, TN, TX, UT, VA, WV, WI, and WY.
 
 # Fees and Insurance
-My standard self-pay fee per 45-minute session is **$160**. 
+My standard self-pay fee per 45-minute session is **$200**. 
 
 I am in-network with Aetna and Optum (UnitedHealthcare, Oscar, and Oxford).
 
