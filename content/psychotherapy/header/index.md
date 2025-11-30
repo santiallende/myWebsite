@@ -10,7 +10,7 @@ headline: |
 
 *Announcement: my practice is full and I am no longer accepting new patients.*
 
-My approach is down-to-earth and steady, with room for humor when it helps. I work with adults who want to explore meaning, purpose, and loss, as well as those navigating life transitions, relationship and family dynamics, chronic stress, burnout, grief, trauma, and other emotional challenges.
+My approach is down-to-earth, with room for humor when it helps. I work with adults who want to explore meaning, purpose, and loss, as well as those navigating life transitions, relationship and family dynamics, chronic stress, burnout, grief, trauma, and other emotional challenges.
 
 I pay close attention to how past experiences shape the ways we interpret our feelings, relate to others, and understand ourselves. Many people carry long-standing beliefs—about who they need to be, what’s expected of them, or which emotions are acceptable—that once served a purpose but no longer reflect how they want to live.
 
