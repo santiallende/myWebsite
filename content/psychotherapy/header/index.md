@@ -10,11 +10,11 @@ headline: |
 
 *Announcement: my practice is full and I am no longer accepting new patients.*
 
-My approach is down-to-earth, with space for humor when it helps. I have a particular interest in working with adults who wish to explore purpose, meaning, and loss, while also addressing life transitions, relationship and family dynamics, chronic stress, burnout, grief, trauma, and other emotional challenges.
+My approach is down-to-earth and steady, with room for humor when it helps. I work with adults who want to explore meaning, purpose, and loss, as well as those navigating life transitions, relationship and family dynamics, chronic stress, burnout, grief, trauma, and other emotional challenges.
 
-I focus on how past experiences shape the ways we interpret our feelings, relate to others, and make sense of ourselves. Many of us carry long-held beliefs—about who we need to be, what's expected of us, or what emotions are safe to show—that may no longer reflect how we want to live.
+I pay close attention to how past experiences shape the ways we interpret our feelings, relate to others, and understand ourselves. Many people carry long-standing beliefs—about who they need to be, what’s expected of them, or which emotions are acceptable—that once served a purpose but no longer reflect how they want to live.
 
-In therapy, we'll explore those stories and patterns at your pace, making room for new perspectives, greater acceptance, and a fuller sense of emotional understanding. Over time, this work can help you soften old beliefs that no longer fit, reconnect with your strengths, and make room for parts of yourself that may have felt quiet, hidden, or left out.
+In therapy, we explore these stories and patterns at your pace, creating room for new insight, greater acceptance, and a fuller sense of emotional understanding. Over time, this work can help soften outdated beliefs, strengthen what already serves you, and make space for parts of yourself that may have felt quiet, hidden, or overlooked.
 
 # States of Service
 
