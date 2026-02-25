@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Single-Session Therapy
+  Single Session
 ---
 
 Single-session therapy is a focused approach in which we meet with the expectation that one session may be sufficient. Rather than viewing the first meeting as preliminary, the session is treated as a complete and potentially impactful experience in its own right.
