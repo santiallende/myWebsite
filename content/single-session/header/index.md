@@ -16,8 +16,6 @@ There is no assumption that therapy must continue beyond this meeting. One sessi
 
 Research suggests that a single well-structured session can produce meaningful and lasting change for many people.
 
-My style is warm and direct, with humor as part of the work when it fits naturally. I focus on how past experiences shape the ways we interpret our feelings, relate to others, and make sense of ourselves.
-
 # Fees
 
 My fee is **$400** for a single 90-minute session. I accept HSA and FSA cards.
