@@ -116,10 +116,15 @@ enableEmoji = true
     url = "/psychotherapy/"
     weight = 2
   [[menu.header]]
+    name = "Single-Session"
+    title = "Single-Session Therapy"
+    url = "/single-session/"
+    weight = 3
+  [[menu.header]]
     name = "Publications"
     title = "Publications"
     url = "/publications/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "Contact"
     title = "Contact form"
