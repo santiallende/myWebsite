@@ -21,7 +21,7 @@ In therapy, we explore these stories and patterns at your pace, creating room fo
 As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherapy in the following states: AL, AZ, AR, CO, CN, MI, CT, DE, DC, FL, GA, ID, IL, IN, KS, KY, ME, MD, MI, MN, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, TN, TX, UT, VA, WV, WI, and WY.
 
 # Fees and Insurance
-My standard self-pay fee per 45-minute session is **$250**. 
+My standard self-pay fee per 45-minute session is **$250**. I accept HSA and FSA cards.
 
 I am an out-of-network provider. I can provide a monthly statement for you to submit to your insurance company for reimbursement. You may want to call your insurance company to ask about your out-of-network benefits. The procedure code for a 45-minute individual psychotherapy session is **90834**.
 
