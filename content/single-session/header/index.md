@@ -8,7 +8,7 @@ headline: |
 
 Single-session therapy is a focused approach in which we meet with the expectation that one session may be sufficient. Rather than viewing the first meeting as preliminary, the session is treated as a complete and potentially impactful experience in its own right.
 
-People often choose this option when something has come into focus: a decision, a pattern, a loss, or a moment of feeling stuck, and they want to work with it directly. The aim is not simply reflection, but movement: gaining clarity, shifting perspective, or identifying a way forward that feels both meaningful and doable.
+People often choose this option when something has come into focus: a decision that feels stuck, a pattern they keep running into, or a loss or transition they're trying to make sense of, and they want to work with it directly. The aim is not simply reflection, but movement: gaining clarity, shifting perspective, or identifying a way forward that feels both meaningful and doable.
 
 In the session, we focus on what matters most right now, drawing on your strengths, past experiences, and capacity for change. The work is active and collaborative, oriented toward creating a shift that can continue after the session ends.
 
