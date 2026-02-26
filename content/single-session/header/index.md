@@ -18,4 +18,6 @@ Research suggests that a single well-structured session can produce meaningful a
 
 # Fees
 
-My fee is **$400** for a single 90-minute session. I accept HSA and FSA cards.
+My fee is **$400** for a single 90-minute session. 
+
+I accept HSA and FSA cards.
