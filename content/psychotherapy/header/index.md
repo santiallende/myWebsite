@@ -8,7 +8,7 @@ headline: |
 
 <!-- this is a subheadline -->
 
-*Announcement: I am not accepting new ongoing therapy clients at this time. If you are interested in a focused, one-time session, please see my Single-Session Therapy page.*
+**Announcement:** *I am not accepting new ongoing therapy clients at this time. If you are interested in a focused, one-time session, please see my Single-Session Therapy page.*
 
 My approach is down-to-earth, with room for humor when it helps. I work with adults who want to explore meaning, purpose, and loss, as well as those navigating life transitions, relationship and family dynamics, chronic stress, burnout, grief, trauma, and other emotional challenges.
 
@@ -21,24 +21,24 @@ In therapy, we explore these stories and patterns at your pace, creating room fo
 As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherapy in the following states: AL, AZ, AR, CO, CN, MI, CT, DE, DC, FL, GA, ID, IL, IN, KS, KY, ME, MD, MI, MN, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, TN, TX, UT, VA, WV, WI, and WY.
 
 # Fees and Insurance
-My standard self-pay fee per 45-minute session is **$250**. 
 
-I accept HSA and FSA cards.
+I am currently in-network with Regence BlueShield, Premera Blue Cross, 
+UnitedHealthcare, Oscar, Oxford, Aetna, Carelon, and BCBS.
 
-I am an out-of-network provider. I can provide a monthly statement for you to submit to your insurance company for reimbursement. You may want to call your insurance company to ask about your out-of-network benefits. The procedure code for a 45-minute individual psychotherapy session is **90834**.
+My standard self-pay fee is **$250** per 45-minute session. I accept HSA 
+and FSA cards.
+
+For all other insurance, I am an out-of-network provider and can provide 
+a monthly statement for you to submit to your insurance company for 
+reimbursement. The procedure code for a 45-minute individual psychotherapy 
+session is **90834**.
 
 A few questions to ask your insurance company:
-
--Do I have out-of-network mental health benefits?
-
--What is my deductible and has it been met?
-
--How many sessions per year does my insurance plan cover?
-
--What is the reimbursement amount per therapy session?
-
--How do I submit claims from an out-of-network mental health provider?
-
+- Do I have out-of-network mental health benefits?
+- What is my deductible and has it been met?
+- How many sessions per year does my insurance plan cover?
+- What is the reimbursement amount per therapy session?
+- How do I submit claims from an out-of-network mental health provider?
 
 
 
