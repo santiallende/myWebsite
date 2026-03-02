@@ -18,9 +18,8 @@ Research suggests that a single well-structured session can produce meaningful a
 
 # Fees
 
-My fee is **$400** for a single 90-minute session. This is primarily 
-offered as a self-pay service. I accept HSA and FSA cards.
+My fee is **$400** for a single 90-minute session. I accept HSA and FSA cards.
 
 If you have in-network coverage with Regence BlueShield, Premera Blue Cross, 
 UnitedHealthcare, Oscar, Oxford, Aetna, Carelon, or BCBS, please contact me 
-before booking — insurance reimbursement will differ from the standard fee.
+before booking. Your out-of-pocket cost will depend on your specific plan and benefits.
