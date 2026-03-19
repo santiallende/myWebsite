@@ -8,7 +8,7 @@ headline: |
 
 <!-- this is a subheadline -->
 
-*Announcement: my practice is full and I am no longer accepting new patients.*
+*Announcement: My practice is currently full, and I am not accepting new patients at this time.*
 
 My approach is down-to-earth, with room for humor when it helps. I work with adults who want to explore meaning, purpose, and loss, as well as those navigating life transitions, relationship and family dynamics, chronic stress, burnout, grief, trauma, and other emotional challenges.
 
