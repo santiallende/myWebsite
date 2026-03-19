@@ -8,7 +8,7 @@ headline: |
 
 <!-- this is a subheadline -->
 
-**Announcement: I am not accepting new ongoing therapy clients at this time.**
+*Announcement: my practice is full and I am no longer accepting new patients.*
 
 My approach is down-to-earth, with room for humor when it helps. I work with adults who want to explore meaning, purpose, and loss, as well as those navigating life transitions, relationship and family dynamics, chronic stress, burnout, grief, trauma, and other emotional challenges.
 
