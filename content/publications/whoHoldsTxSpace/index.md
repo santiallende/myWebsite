@@ -16,7 +16,7 @@ subtitle:
 title: Who Holds the Therapeutic Space?
 ---
 
-**Authors** Santiago Allende
+**Authors:** Santiago Allende
 
 A data visualization and analysis examining the financial relationships between major insurers and the digital mental health platforms therapists depend on for network access. The same insurer-affiliated venture entities holding equity stakes in platforms like Headway and Alma are also funding and shaping the quality measurement standards now being developed to hold those platforms' therapists accountable.
 

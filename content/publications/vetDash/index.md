@@ -16,7 +16,7 @@ subtitle:
 title: VetDash Clinical Dashboard
 ---
 
-**Authors** Santiago Allende, Hayley S. Sullivan, Peter J. Bayley
+**Authors:** Santiago Allende, Hayley S. Sullivan, Peter J. Bayley
 
 **Objectives:** Measurement-based care (MBC) improves clinical decision-making but remains underutilized in the Veterans Health Administration due to barriers such as provider awareness, time constraints, and user-experience limitations. This study describes the development of the War Related Illness and Injury Study Center (WRIISC) Veteran Dashboard (VetDash), a patient-level clinical dashboard designed to integrate the VA’s Collect, Share, Act model into provider workflows.
 
