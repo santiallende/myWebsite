@@ -22,8 +22,8 @@ As a member of  [PSYPACT](https://psypact.org/), I am able to provide teletherap
 
 # Fees and Insurance
 
-I am currently in-network with Regence BlueShield, Premera Blue Cross, 
-UnitedHealthcare, Oscar, Oxford, Aetna, Carelon, and BCBS.
+I am currently in-network with Regence BlueShield, Premera Blue Cross, and 
+Aetna.
 
 My standard self-pay fee is **$250** per 45-minute session. I accept HSA 
 and FSA cards.
