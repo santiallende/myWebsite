@@ -56,4 +56,22 @@ Authority to Practice Interjurisdictional Telepsychology (APIT) <br>
 [Verification of Authorizations](https://www.verifypsypact.org/PsypactDirectory) <br>
 APIT #: 17010 
 
+<div class="ReimbursifyWidget"
+title="Reimbursify"
+id="div-ffw-1506023749912"
+offset-bottom-pixels="100"
+offset-right-pixels="50"
+style="z-index:100"
+filefast-qikcode="SALLE417A"
+verifast-qikcode="1A9D3D0E1H"
+button-background-color="#4A97E2"
+button-change-color="#ff7200"
+button-font-color="#FFFFFF"
+widget-embed="true"
+filefast-header-image-url="https://bit.ly/3dDOSpv"
+verifast-header-image-url="https://bit.ly/3kbViSI">
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+<script type="text/javascript" src="https://reimbursify.com/ffweb/fvw.js"></script>
 
