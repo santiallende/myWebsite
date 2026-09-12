@@ -36,7 +36,9 @@ This can be particularly important in aviation, where accurate clinical assessme
 
 ## Approach to Therapy
 
-My work is particularly informed by Control Mastery Theory (CMT), an evidence-based approach that focuses on how past experiences shape the ways we understand ourselves, relate to others, and interpret the world around us. We may carry longstanding beliefs about who we need to be, what others expect from us, or which emotions are acceptable to express. While these beliefs often developed for understandable reasons, they can sometimes interfere with how we want to live and the goals we want to pursue. Therapy can provide opportunities to better understand and reconsider these beliefs while working toward the goals that matter to us.
+My work is particularly informed by Control Mastery Theory (CMT), an evidence-based approach to psychotherapy. I pay close attention to how past experiences shape the ways we interpret our feelings, relate to others, and understand ourselves. Many people carry long-standing beliefs about who they need to be, what is expected of them, or which emotions are acceptable to express. These beliefs often developed for understandable reasons but can sometimes interfere with how we want to live and the goals we want to pursue.
+
+In therapy, we explore these beliefs and patterns at your pace, creating opportunities for new understanding and different ways of responding to them. Over time, this work can help us reconsider beliefs that may no longer serve you, strengthen what already does, and move toward the goals that matter to you.
 
 My training and clinical experience also include Interpersonal Psychotherapy (IPT), Acceptance and Commitment Therapy (ACT), Time-Limited Dynamic Psychotherapy (TLDP), Motivational Interviewing (MI), Cognitive Behavioral Therapy (CBT), and evidence-based approaches to grief and loss. This broader training allows treatment to be responsive to the person, their concerns, and what they hope to accomplish in therapy.
 
