@@ -1,0 +1,48 @@
+{{/* Google Ads tag + conversion events. Only emitted in production builds
+     (Netlify sets HUGO_ENV=production; blogdown serve is "development").
+     Configure in config.toml under [params.googleAds]. */}}
+{{ $ads := .Site.Params.googleAds }}
+{{ if and $ads $ads.tag (eq hugo.Environment "production") }}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ $ads.tag }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ $ads.tag }}');
+  </script>
+  <script>
+    (function () {
+      var TAG = '{{ $ads.tag }}';
+      var LABELS = {
+        phone_click:     '{{ $ads.phoneLabel | default "" }}',
+        consult_request: '{{ $ads.consultLabel | default "" }}',
+        contact_form:    '{{ $ads.formLabel | default "" }}'
+      };
+      function track(name, done) {
+        gtag('event', name);
+        if (LABELS[name]) {
+          gtag('event', 'conversion', { send_to: TAG + '/' + LABELS[name], event_callback: done });
+          return true;
+        }
+        return false;
+      }
+      document.addEventListener('DOMContentLoaded', function () {
+        document.querySelectorAll('a[href^="tel:"]').forEach(function (a) {
+          a.addEventListener('click', function () { track('phone_click'); });
+        });
+        document.querySelectorAll('a[href*="sessionshealth.com"]').forEach(function (a) {
+          a.addEventListener('click', function () { track('consult_request'); });
+        });
+        document.querySelectorAll('form[action*="formspree.io"]').forEach(function (f) {
+          f.addEventListener('submit', function (e) {
+            if (f.dataset.tracked) return;
+            f.dataset.tracked = '1';
+            var go = function () { f.submit(); };
+            if (track('contact_form', go)) { e.preventDefault(); setTimeout(go, 600); }
+          });
+        });
+      });
+    })();
+  </script>
+{{ end }}

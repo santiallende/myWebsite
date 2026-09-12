@@ -68,6 +68,6 @@ For out-of-network plans, you can check your benefits and file claims using the 
 
 ## Getting Started
 
-I provide psychotherapy to adults in Washington and telepsychology to individuals located in participating [PSYPACT](https://psypact.org/) states: AL, AZ, AR, CO, CNMI, CT, DE, DC, FL, GA, ID, IL, IN, KS, KY, ME, MD, MI, MN, MS, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, SD, TN, TX, UT, VT, VA, WV, WI, and WY.
+I provide psychotherapy to adults in Washington and telepsychology to individuals located in participating [PSYPACT](https://psypact.org/) states: AL, AK, AZ, AR, CO, CNMI, CT, DE, DC, FL, GA, ID, IL, IN, IA, KS, KY, ME, MD, MI, MN, MS, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, SD, TN, TX, UT, VT, VA, WV, WI, and WY.
 
 If you are a pilot, air traffic controller, or other aviation professional interested in psychotherapy, you are welcome to [contact me](/contact/) for a free 15-minute consultation to discuss what you are looking for and whether we might be a good fit.

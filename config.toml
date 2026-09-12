@@ -69,6 +69,16 @@ enableEmoji = true
   headingFontFamily = "sans-serif"
 
   # Configuration of https://utteranc.es/ for comments
+  # Google Ads tag and conversion labels (see layouts/partials/head_custom.html).
+  # tag: the "AW-" ID from Google Ads > Tools > Google tag.
+  # Labels: the part after the slash in each conversion action's tag snippet.
+  # Leave a label empty to skip that conversion; events still fire without it.
+  [params.googleAds]
+    tag = "AW-9521794404"
+    phoneLabel = ""
+    consultLabel = ""
+    formLabel = ""
+
   [params.utterances]
     use_utterances = true
     repo_name = "apreshill/apero"
