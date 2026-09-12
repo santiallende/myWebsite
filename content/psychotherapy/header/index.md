@@ -20,7 +20,7 @@ As a member of [PSYPACT](https://psypact.org/), I am able to provide teletherapy
 
 # Fees
 
-My fee is **$250** per 45-minute session. I accept HSA and FSA cards.
+My fee is **$250** per 45-minute session and **$500** for a 90-minute Single-Session Therapy appointment. I accept HSA and FSA cards.
 
 For out-of-network plans, you can check your benefits and file claims using the **Use Your Insurance** button on this page.
 
