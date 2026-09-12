@@ -24,7 +24,7 @@ I am familiar with FAA aeromedical standards and mental health guidance, includi
 
 The FAA recognizes the importance of seeking appropriate mental health care, and participating in psychotherapy does not automatically mean receiving a mental health diagnosis or being unable to hold an FAA medical certificate. People seek therapy for many reasons, including stress, relationships, grief and loss, personal development, life changes, professional pressures, or other concerns that may or may not represent a psychiatric disorder.
 
-When a diagnosis is clinically appropriate, I believe it should be made thoughtfully and supported by the available evidence. When questions about medical certification arise, consultation with an AME or other appropriate aeromedical professional may also be helpful.
+When a diagnosis is clinically appropriate, I approach it thoughtfully and based on the available clinical evidence. When questions about medical certification arise, consultation with an AME or other appropriate aeromedical professional may also be helpful.
 
 # Thoughtful Assessment and Diagnosis
 
@@ -57,6 +57,8 @@ Single-Session Therapy is a focused, 90-minute appointment and may be particular
 Psychotherapy is confidential, subject to the usual legal and ethical limits of confidentiality.
 
 The FAA generally does not review a person's psychotherapy record simply because they have participated in therapy. If information about treatment is needed as part of the medical certification process, I can provide accurate clinical information with your authorization and, when appropriate, coordinate with your AME or other professionals involved in your care.
+
+My continuing education has included attendance at the HIMS Basic Education Seminar and Aerospace Behavioral Health Symposium (ABHS).
 
 # Fees
 
