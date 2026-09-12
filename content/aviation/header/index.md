@@ -8,7 +8,7 @@ headline: |
 
 <!-- this is a subheadline -->
 
-### Psychotherapy for Pilots, Air Traffic Controllers, and Aviation Professionals
+## Psychotherapy for Pilots, Air Traffic Controllers, and Aviation Professionals
 
 Aviation is a unique environment. Pilots, air traffic controllers, and other aviation professionals work in a culture that places a high value on safety, performance, judgment, and personal responsibility. Seeking mental health care can also feel more complicated when questions about medical certification or occupational requirements are involved.
 
