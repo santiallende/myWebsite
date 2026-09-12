@@ -23,6 +23,9 @@ My research and analytic work focuses on biobehavioral health and mind–body pr
 
 ## Education
 
+**University of Colorado** | Denver, CO <br>
+MSCP, Psychopharmacology | In Progress
+
 **PGSP-Stanford PsyD Consortium** | Palo Alto, CA <br>
 PsyD, Doctor of Psychology | July 2022
 
