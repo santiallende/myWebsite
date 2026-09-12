@@ -14,11 +14,11 @@ I pay close attention to how past experiences shape the ways we interpret our fe
 
 In therapy, we explore these stories and patterns at your pace, creating room for new insight, greater acceptance, and a fuller sense of emotional understanding. Over time, this work can help soften outdated beliefs, strengthen what already serves you, and make space for parts of yourself that may have felt quiet, hidden, or overlooked.
 
-# States of Service
+## States of Service
 
 As a member of [PSYPACT](https://psypact.org/), I am able to provide teletherapy in the following states: AL, AZ, AR, CO, CNMI, CT, DE, DC, FL, GA, ID, IL, IN, KS, KY, ME, MD, MI, MN, MS, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, SD, TN, TX, UT, VT, VA, WV, WI, and WY.
 
-# Fees
+## Fees
 
 My fee is **$250** per 45-minute session and **$500** for a 90-minute Single-Session Therapy appointment. I accept HSA and FSA cards.
 
