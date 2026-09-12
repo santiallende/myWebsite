@@ -12,7 +12,7 @@ headline: |
 
 Aviation is a unique environment. Pilots, air traffic controllers, and other aviation professionals work in a culture that places a high value on safety, performance, judgment, and personal responsibility. Seeking mental health care can also feel more complicated when questions about medical certification or occupational requirements are involved.
 
-I provide psychotherapy for pilots, air traffic controllers, and other aviation professionals with an appreciation for the unique culture, responsibilities, and regulatory environment of aviation. As an instrument-rated private pilot, I also have some familiarity with aviation, its terminology and culture, and the importance that flying can have in a person's life.
+I provide psychotherapy for pilots, air traffic controllers, and other aviation professionals with an appreciation for the unique culture, responsibilities, and regulatory environment of aviation. As an instrument-rated private pilot, I also have familiarity with aviation, its terminology and culture, and the importance that flying can have in a person's life.
 
 My goal is to provide a setting where aviation professionals can address the same concerns that bring many people to therapy while working with a psychologist who is familiar with the broader aviation and aeromedical context.
 
