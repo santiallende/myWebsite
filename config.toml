@@ -74,10 +74,10 @@ enableEmoji = true
   # Labels: the part after the slash in each conversion action's tag snippet.
   # Leave a label empty to skip that conversion; events still fire without it.
   [params.googleAds]
-    tag = "AW-11392064556"
-    phoneLabel = "pmOCCNzu4_QcEKy4lLgq"
-    consultLabel = "HgiACNnu4_QcEKy4lLgq"
-    formLabel = "6OjuCN_u4_QcEKy4lLgq"
+    tag = "AW-18447654599"
+    phoneLabel = "InGzCIG03PUcEMe9w9xE"
+    consultLabel = "pjUpCP6z3PUcEMe9w9xE"
+    formLabel = "hgKhCIS03PUcEMe9w9xE"
 
   [params.utterances]
     use_utterances = true
