@@ -2,8 +2,7 @@
 type: about
 cascade:
   headless: true
-description: |
-  Aviation Psychology: Psychotherapy for Pilots, Air Traffic Controllers, and Aviation Professionals
+description: Psychotherapy for pilots, air traffic controllers, and other aviation professionals, with familiarity with FAA medical standards. Telehealth in more than 40 states.
 show_header: true
 sidebar_left: false
 title: Aviation Psychology

@@ -1,6 +1,10 @@
 ---
 author: Alison Hill
 cascade:
+  _build:
+    list: never
+    render: never
+    publishResources: false
   layout: single-series
   sidebar:
     author: Alison Hill
@@ -24,4 +28,9 @@ show_post_thumbnail: true
 subtitle: A collection, minus the blog.
 thumbnail_left: false
 title: Create a Collection
+_build:
+  list: never
+  render: never
+  publishResources: false
+
 ---

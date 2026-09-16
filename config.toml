@@ -7,11 +7,13 @@ copyright = "" # set to override the auto generated copyright using org info and
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
 paginate = 5
 preserveTaxonomyNames = true
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$", "content/elements/"]
 enableEmoji = true
 
 [markup]
@@ -29,8 +31,10 @@ enableEmoji = true
     
 [params]
   orgName = "Santi Allende, PsyD"
+  seo_title = "Santi Allende, PsyD | Licensed Psychologist in Seattle"
+  phone = "+1-206-588-6067"
   orgLocal = ""
-  description = "Dr. Santi's website."
+  description = "Santi Allende, PsyD is a licensed psychologist in Seattle offering psychotherapy for adults, and telehealth in PSYPACT states, including aviation psychology for pilots and air traffic controllers."
   favicon = "img/avatar.ico"
   #logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["about", "psychotherapy", "aviation", "publications", "contact"]

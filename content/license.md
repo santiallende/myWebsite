@@ -5,6 +5,11 @@ draft: false
 layout: standard
 show_title_as_headline: true
 title: License
+_build:
+  list: never
+  render: never
+  publishResources: false
+
 ---
 
 My [blog posts](/post/) are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).

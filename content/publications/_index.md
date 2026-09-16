@@ -1,4 +1,5 @@
 ---
+seo_description: Peer-reviewed publications and manuscripts by Santi Allende, PsyD, spanning psychotherapy process, PTSD and sleep, and clinical research.
 author: Santi Allende, PsyD
 cascade:
   author: Santi Allende

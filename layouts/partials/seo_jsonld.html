@@ -1,0 +1,41 @@
+{{/* Structured data describing the practice, so search engines can read who
+     provides the service, where, and how to reach it. Emitted once, on the
+     home page, to avoid repeating the same entity on every page. */}}
+{{ if .IsHome }}
+{{ $img := site.Params.sharing_image | absURL }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "additionalType": "https://schema.org/MedicalBusiness",
+  "name": "Santi Allende, PsyD",
+  "description": {{ site.Params.description }},
+  "url": {{ site.BaseURL }},
+  "image": {{ $img }},
+  {{ with site.Params.phone }}"telephone": {{ . }},{{ end }}
+  "medicalSpecialty": "Psychiatric",
+  "areaServed": [
+    { "@type": "City", "name": "Seattle" },
+    { "@type": "State", "name": "Washington" },
+    { "@type": "Country", "name": "United States" }
+  ],
+  "availableService": [
+    { "@type": "Service", "name": "Psychotherapy for adults" },
+    { "@type": "Service", "name": "Single-Session Therapy" },
+    { "@type": "Service", "name": "Aviation psychology for pilots and air traffic controllers" },
+    { "@type": "Service", "name": "Telehealth in PSYPACT participating states" }
+  ],
+  "provider": {
+    "@type": "Person",
+    "name": "Santi Allende",
+    "honorificSuffix": "PsyD",
+    "jobTitle": "Licensed Psychologist",
+    "url": {{ site.BaseURL }},
+    "image": {{ $img }},
+    "sameAs": [
+      "https://orcid.org/0000-0001-9708-6629"
+    ]
+  }
+}
+</script>
+{{ end }}
