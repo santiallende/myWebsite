@@ -1,0 +1,25 @@
+{{/* Local override of the theme's contact form.
+
+     Adds a honeypot field: real people never see or fill "_gotcha", but bots
+     that blindly complete every input do. Formspree silently discards any
+     submission where it is filled, so spam is dropped without making a
+     visitor solve anything. */}}
+<form name="{{ .Title | lower }}-submission"{{ if .Params.formspree_form_id }} action="https://formspree.io/f/{{ .Params.formspree_form_id }}"{{ end }} method="post" accept-charset="utf-8">
+  <fieldset id="{{ .Title | lower }}-inputs">
+    <legend>{{ .Params.Name }}</legend>
+    <label for="full-name">Full Name</label>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required>
+    <label for="email-address">Email address</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="your@email.here" required>
+    <label for="message">Message</label>
+    <textarea rows="6" name="message" id="message" placeholder="How can I help?" required></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="{{ .Params.Name | title }} Submission" />
+    {{/* Honeypot: hidden from people and from screen readers, ignored by browsers' autofill. */}}
+    <div style="position:absolute;left:-9999px;top:-9999px;" aria-hidden="true">
+      <label for="_gotcha">Leave this field empty</label>
+      <input type="text" name="_gotcha" id="_gotcha" tabindex="-1" autocomplete="off">
+    </div>
+  </fieldset>
+  <input type="submit" value="{{ if .Params.submit_button_label }}{{ .Params.submit_button_label }}{{ end }}">
+  {{ if .Params.show_poweredby_formspree }}<small class="db dib-l ml4-l">Powered by <a href="https://formspree.io" target="_blank" rel="noopener">Formspree</a></small>{{ end }}
+</form>
