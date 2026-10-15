@@ -1,0 +1,39 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  <section class="page-content mw8 center">
+    <div class="flex-ns">
+      <div class="w-50-ns pr4-ns">
+        <h1 class="f2 f1-ns measure lh-solid">{{ .Title }}</h1>
+        <p class="f5 measure-narrow lh-copy">{{ .Description | markdownify }}</p>
+        {{ if .Params.show_social_links }}
+        <p class="measure-narrow mv4 lh-copy">
+          {{ partial "shared/social-links.html" . }}
+        </p>
+        {{ end }}
+      </div>
+      <div class="w-50-ns mt3">
+        {{ partial "shared/contact-form.html" . }}
+      </div>
+    </div>
+    {{/* Office photos: drop office-1.jpg, office-2.jpg, office-3.jpg into static/img/ and this section appears. */}}
+    {{ $photos := slice }}
+    {{ range seq 1 3 }}
+      {{ $p := printf "img/office-%d.jpg" . }}
+      {{ if fileExists (printf "static/%s" $p) }}{{ $photos = $photos | append $p }}{{ end }}
+    {{ end }}
+    {{ with $photos }}
+    <div class="mt5">
+      <h2 class="f3 lh-title">{{ $.Params.office_heading | default "The Office" }}</h2>
+      {{ with $.Params.office_text }}<p class="f5 measure lh-copy">{{ . | markdownify }}</p>{{ end }}
+      <div class="flex-ns flex-wrap nl2 nr2">
+        {{ range . }}
+        <div class="w-50-ns ph2 mb3">
+          <img src="{{ . | relURL }}" alt="{{ $.Params.office_alt | default "Office interior" }}" class="db w-100 br2" loading="lazy">
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </section>
+</main>
+{{ end }}

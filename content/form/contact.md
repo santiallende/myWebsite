@@ -10,6 +10,8 @@ show_poweredby_formspree: true
 show_social_links: true
 submit_button_label: Send Message
 title: Contact
+office_heading: The Office
+office_text: I see clients in person in Upper Queen Anne, Seattle, and by video.
 type: form
 url: contact
 ---
