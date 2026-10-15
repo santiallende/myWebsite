@@ -3,7 +3,7 @@ action_label: Learn More &rarr;
 action_link: /about
 action_type: text
 avatar_shape: rounded
-description: I work with people who have demanding careers and have done well by most measures, but find that the pressure no longer feels worth it or success hasn't brought what they expected. I also work with adults exploring purpose, meaning, and loss, as well as pilots and other aviation professionals.
+description: Many of the people I work with have demanding careers and have done well by most measures, but come to therapy when the pressure stops feeling worth it or success hasn't brought what they expected. I also work with adults exploring purpose, meaning, and loss, as well as pilots and other aviation professionals.
 
 keywords:
 - psychotherapy
