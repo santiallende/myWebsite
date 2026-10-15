@@ -66,6 +66,8 @@ My continuing education has included attendance at the HIMS Basic Education Semi
 
 My fee is **$250** per 45-minute session and **$500** for a 90-minute Single-Session Therapy appointment. I accept HSA and FSA cards.
 
+If your plan includes out-of-network benefits, I can provide a superbill for you to submit to your insurer for reimbursement.
+
 ## Getting Started
 
 I provide psychotherapy to adults in Washington and telepsychology to individuals located in participating [PSYPACT](https://psypact.org/) states: AL, AK, AZ, AR, CO, CNMI, CT, DE, DC, FL, GA, ID, IL, IN, IA, KS, KY, ME, MD, MI, MN, MS, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, SD, TN, TX, UT, VT, VA, WV, WI, and WY.
