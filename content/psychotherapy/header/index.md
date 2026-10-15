@@ -18,7 +18,7 @@ In therapy, we explore these stories and patterns at your pace, creating room fo
 
 Many of the people I see have demanding careers and have done well by most measures. They come to therapy when the pressure stops feeling worth it, when work has crowded out the rest of life, or when success hasn't brought what they expected.
 
-I also work with people who wouldn't say they are struggling, but who notice that something isn't adding up. Relationships start well and then go flat, or keep ending the same way. Connections with others can feel disappointing or unfulfilling. Accomplishments that should feel satisfying don't last, and underneath there is a restlessness or boredom that is hard to name. Sometimes the push to come in is a partner or colleague saying they are hard to get close to.
+I also work with people who wouldn't say they are struggling, but who notice that something isn't adding up. Relationships start well and then go flat, or keep ending the same way. Connections with others can feel disappointing or unfulfilling. Accomplishments that should feel satisfying don't last, and underneath there is a restlessness or boredom that is hard to name. Sometimes the push to come in is someone in their life saying they are hard to get close to.
 
 ## States of Service
 
