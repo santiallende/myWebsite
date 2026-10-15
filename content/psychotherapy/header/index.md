@@ -20,6 +20,15 @@ I also work with people who wouldn't say they are struggling, but who notice tha
 
 More broadly, I work with adults who want to explore meaning, purpose, and loss, as well as those navigating life transitions, relationship and family dynamics, chronic stress, burnout, grief, and trauma. I also work with pilots, air traffic controllers, and other aviation professionals; see [Aviation Psychology](/aviation/).
 
+## In Person or Online
+
+I see clients in person at my office in Upper Queen Anne, Seattle, and by video.
+
+<div class="flex-ns nl2 nr2 mb4">
+<div class="w-50-ns ph2 mb3"><img src="/img/office-1.jpg" alt="Office interior" class="db w-100 br2" loading="lazy"></div>
+<div class="w-50-ns ph2 mb3"><img src="/img/office-2.jpg" alt="Office interior" class="db w-100 br2" loading="lazy"></div>
+</div>
+
 ## States of Service
 
 As a member of [PSYPACT](https://psypact.org/), I am able to provide teletherapy in the following states: AL, AK, AZ, AR, CO, CT, DE, DC, FL, GA, ID, IL, IN, IA, KS, KY, ME, MD, MI, MN, MS, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, SD, TN, TX, UT, VT, VA, WV, WI, WY, and the Northern Mariana Islands.
