@@ -14,6 +14,12 @@ I pay close attention to how past experiences shape the ways we interpret our fe
 
 In therapy, we explore these stories and patterns at your pace, creating room for new insight, greater acceptance, and a fuller sense of emotional understanding. Over time, this work can help soften outdated beliefs, strengthen what already serves you, and make space for parts of yourself that may have felt quiet, hidden, or overlooked.
 
+## Who I Work With
+
+Many of the people I see have demanding careers and have done well by most measures. They come to therapy when the pressure stops feeling worth it, when work has crowded out the rest of life, or when success hasn't brought what they expected.
+
+I also work with people who wouldn't say they are struggling, but who notice that something isn't adding up. Relationships start well and then go flat, or keep ending the same way. Other people seem to fall short. Accomplishments that should feel satisfying don't last, and underneath there is a restlessness or boredom that is hard to name. Sometimes the push to come in is a partner or colleague saying they are hard to get close to. These patterns often reflect beliefs and ways of relating that once made sense but may no longer serve you.
+
 ## States of Service
 
 As a member of [PSYPACT](https://psypact.org/), I am able to provide teletherapy in the following states: AL, AK, AZ, AR, CO, CNMI, CT, DE, DC, FL, GA, ID, IL, IN, IA, KS, KY, ME, MD, MI, MN, MS, MO, NE, NV, NH, NJ, NC, ND, OH, OK, PA, RI, SC, SD, TN, TX, UT, VT, VA, WV, WI, and WY.

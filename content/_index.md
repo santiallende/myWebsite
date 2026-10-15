@@ -3,7 +3,7 @@ action_label: Learn More &rarr;
 action_link: /about
 action_type: text
 avatar_shape: rounded
-description: I work with individuals who wish to overcome chronic stress and explore issues of purpose, meaning, and loss in important areas of their lives. My goal is to help clients feel more integrated and better prepared to meet their unique challenges.
+description: I work with people who have demanding careers and have done well by most measures, but find that the pressure no longer feels worth it or success hasn't brought what they expected. I also work with adults exploring purpose, meaning, and loss, as well as pilots and other aviation professionals.
 
 keywords:
 - psychotherapy
