@@ -8,9 +8,7 @@ headline: |
 
 <!-- this is a subheadline -->
 
-My approach is down-to-earth, with room for humor when it helps. I work with adults who want to explore meaning, purpose, and loss, as well as those navigating life transitions, relationship and family dynamics, chronic stress, burnout, grief, trauma, and other emotional challenges.
-
-I pay close attention to how past experiences shape the ways we interpret our feelings, relate to others, and understand ourselves. Many people carry long-standing beliefs—about who they need to be, what’s expected of them, or which emotions are acceptable—that once served a purpose but no longer reflect how they want to live.
+My approach is down-to-earth, with room for humor when it helps. I pay close attention to how past experiences shape the ways we interpret our feelings, relate to others, and understand ourselves. Many people carry long-standing beliefs—about who they need to be, what’s expected of them, or which emotions are acceptable—that once served a purpose but no longer reflect how they want to live.
 
 In therapy, we explore these stories and patterns at your pace, creating room for new insight, greater acceptance, and a fuller sense of emotional understanding. Over time, this work can help soften outdated beliefs, strengthen what already serves you, and make space for parts of yourself that may have felt quiet, hidden, or overlooked.
 
@@ -19,6 +17,8 @@ In therapy, we explore these stories and patterns at your pace, creating room fo
 Many of the people I see have demanding careers and have done well by most measures. They come to therapy when the pressure stops feeling worth it, when work has crowded out the rest of life, or when success hasn't brought what they expected.
 
 I also work with people who wouldn't say they are struggling, but who notice that something isn't adding up. Relationships start well and then go flat, or keep ending the same way. Connections with others can feel disappointing or unfulfilling. Accomplishments that should feel satisfying don't last, and underneath there is a restlessness or boredom that is hard to name. Sometimes the push to come in is someone in their life saying they are hard to get close to.
+
+More broadly, I work with adults who want to explore meaning, purpose, and loss, as well as those navigating life transitions, relationship and family dynamics, chronic stress, burnout, grief, and trauma. I also work with pilots, air traffic controllers, and other aviation professionals; see [Aviation Psychology](/aviation/).
 
 ## States of Service
 
