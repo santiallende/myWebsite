@@ -34,10 +34,10 @@ enableEmoji = true
   seo_title = "Santi Allende, PsyD | Licensed Psychologist in Seattle"
   phone = "+1-206-588-6067"
   orgLocal = ""
-  description = "Santi Allende, PsyD is a licensed psychologist in Seattle offering psychotherapy for adults, and telehealth in PSYPACT states, including aviation psychology for pilots and air traffic controllers."
+  description = "Santi Allende, PsyD is a licensed psychologist in Seattle offering psychotherapy for adults, and telehealth in PSYPACT states."
   favicon = "img/avatar.ico"
   #logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["about", "psychotherapy", "aviation", "publications", "contact"]
+  mainSections = ["about", "psychotherapy", "publications", "contact"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -129,11 +129,6 @@ enableEmoji = true
     title = "Psychotherapy"
     url = "/psychotherapy/"
     weight = 2
-  [[menu.header]]
-    name = "Aviation"
-    title = "Aviation Psychology"
-    url = "/aviation/"
-    weight = 3
   [[menu.header]]
     name = "Publications"
     title = "Publications"
